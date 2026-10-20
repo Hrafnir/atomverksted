@@ -1,0 +1,9 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');const c=vm.createContext({});vm.runInContext(fs.readFileSync('dist/chemistry-core.js','utf8')+fs.readFileSync('dist/molecule-layout.js','utf8')+';this.api={molAngles,molPoint,molFreeSlots,molSyncPorts,molClaimBond,molHydrideLayout,molFindSnap,molComponent}',c);const l=c.api,near=(a,b)=>assert(Math.abs(a-b)<1e-6);
+const atoms=[{element:'C',x:250,y:250},...Array.from({length:4},()=>({element:'H',x:500,y:400}))],bonds=[];
+for(const [i,slot]of [[1,2],[2,0],[3,3],[4,1]]){assert(l.molClaimBond(atoms,bonds,0,i,slot,0));const p=l.molPoint(atoms[0],slot);near(atoms[i].x,p.x);near(atoms[i].y,p.y);assert(!l.molFreeSlots(atoms,bonds,0).includes(slot))}
+assert.equal(l.molFreeSlots(atoms,bonds,0).length,0);assert.equal(l.molComponent(bonds,0).length,5);assert(!l.molClaimBond(atoms,bonds,0,1,0,0));
+bonds.splice(1,1);l.molSyncPorts(atoms,bonds);assert.deepEqual([...l.molFreeSlots(atoms,bonds,0)],[0]);
+const free=[{element:'C',x:250,y:250},{element:'H',x:600,y:300}],empty=[];const hit=l.molFindSnap(free,empty,1,{x:299,y:250});assert.equal(hit.slot,1);assert.equal(hit.atom,0);near(hit.x,400);near(hit.y,250);assert.equal(l.molFindSnap(free,empty,1,{x:900,y:900}),null);
+const water=l.molHydrideLayout({atoms:[{element:'O'},{element:'H'},{element:'H'}],bonds:[[0,1,1],[0,2,1]]});near(water[1].x+water[2].x,2*water[0].x);near(water[1].y,water[2].y);assert(water[1].y<water[0].y);
+const methane=l.molHydrideLayout({atoms:[{element:'C'},...Array.from({length:4},()=>({element:'H'}))],bonds:[[0,1,1],[0,2,1],[0,3,1],[0,4,1]]});for(let i=1;i<5;i++){const next=i===4?1:i+1,a={x:methane[i].x-230,y:methane[i].y-230},b={x:methane[next].x-230,y:methane[next].y-230};near(a.x*b.x+a.y*b.y,0);near(Math.hypot(a.x,a.y),150)}
+console.log('PASS: stable chosen slots, occupied-slot rejection, slot release, H drop target, symmetric water, equal 90-degree methane bonds, connected-component movement.');

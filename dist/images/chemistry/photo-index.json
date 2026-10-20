@@ -1,0 +1,102 @@
+{
+  "cid:962": {
+    "path": "images/chemistry/cid-962.jpg",
+    "caption": "Vann med bobler i et glass. Vanlig drikkevann inneholder også oppløste stoffer.",
+    "credit": "Paolo Neo",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Water_bubbles_in_glass.jpg",
+    "kind": "context",
+    "changes": "Skalert til nettvisning."
+  },
+  "cid:702": {
+    "path": "images/chemistry/cid-702.jpg",
+    "caption": "Teknisk etanol på flaske (T-Röd). Produktet er denaturert og inneholder andre stoffer; bildet viser ikke ren etanol.",
+    "credit": "Yvwv",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:TrodEthanolBottle.jpg",
+    "kind": "context",
+    "changes": "Skalert til nettvisning."
+  },
+  "cid:5988": {
+    "path": "images/chemistry/cid-5988.jpg",
+    "caption": "Sukkerbiter laget av vanlig sukker, der hovedstoffet er sukrose.",
+    "credit": "carol  ( talk )",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Sugar_cubes-closeup.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning."
+  },
+  "cid:5793": {
+    "path": "images/chemistry/cid-5793.jpg",
+    "caption": "Glukosemonohydrat: glukose krystallisert med vann. Bildet viser en hydratisert prøve.",
+    "credit": "Lecaimant",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D-(%2B)-Glucose_monohydrate.jpg",
+    "kind": "hydrate",
+    "changes": "Skalert til nettvisning."
+  },
+  "salt:nacl": {
+    "path": "images/chemistry/salt-nacl.jpg",
+    "caption": "Krystaller av kjøkkensalt (natriumklorid).",
+    "credit": "Stanislav.nevyhosteny",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_chloride_crystals.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning."
+  },
+  "salt:nahco3": {
+    "path": "images/chemistry/salt-nahco3.jpg",
+    "caption": "Natron: natriumhydrogenkarbonat som hvitt pulver.",
+    "credit": "Thavox",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_bicarbonate.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning."
+  },
+  "salt:caco3": {
+    "path": "images/chemistry/salt-caco3.jpg",
+    "caption": "Kalsittkrystaller: en naturlig krystallform av kalsiumkarbonat. Mineralprøver kan inneholde urenheter.",
+    "credit": "The High Fin Sperm Whale",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calcite_crystals.jpg",
+    "kind": "mineral",
+    "changes": "Skalert til nettvisning."
+  },
+  "salt:cuso4": {
+    "path": "images/chemistry/salt-cuso4.jpg",
+    "caption": "Blå krystaller av kobber(II)sulfatpentahydrat, CuSO4·5H2O. Vannfritt CuSO4 har et annet utseende.",
+    "credit": "Crystal Titan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Copper_Sulfate_Crystals.jpg",
+    "kind": "hydrate",
+    "changes": "Skalert til nettvisning."
+  },
+  "salt:mgso4": {
+    "path": "images/chemistry/salt-mgso4.jpg",
+    "caption": "Magnesiumsulfatheptahydrat (epsomsalt), MgSO4·7H2O. Krystallene inneholder bundet vann.",
+    "credit": "Chemicalinterest  at  en.wikipedia",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Magnesium_sulfate.JPG",
+    "kind": "hydrate",
+    "changes": "Skalert til nettvisning."
+  },
+  "cid:977": {
+    "path": "images/element-8.jpg",
+    "caption": "Gass i et utladningsrør. Elektrisk eksitasjon får gassen til å lyse; dette er ikke dens vanlige utseende.",
+    "credit": "Images of Elements · CC BY 3.0 (se originalside for eventuelle særskilte krediteringer)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://images-of-elements.com/oxygen.php",
+    "kind": "context",
+    "changes": "Skalert til nettvisning."
+  }
+}

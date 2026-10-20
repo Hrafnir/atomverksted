@@ -1,0 +1,524 @@
+{
+  "salt:feo": {
+    "path": "images/chemistry/expanded-salt-feo.jpg",
+    "caption": "Jern(II)oksid, FeO, som svart pulver. Dette er ikke vanlig rødbrun rust.",
+    "credit": "http://en.wikipedia.org/w/index.php?title=User:Fuzic&action=edit",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Iron(II)_oxide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:fe2o3": [
+    {
+      "path": "images/chemistry/expanded-salt-fe2o3.jpg",
+      "caption": "Prøve av jern(III)oksid, Fe₂O₃. Vanlig rust er en blanding av hydratiserte jernoksider og oksyhydroksider, ikke rent Fe₂O₃.",
+      "credit": "Benjah-bmm27",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+      "source": "https://commons.wikimedia.org/wiki/File:Iron(III)-oxide-sample.jpg",
+      "kind": "sample",
+      "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+    },
+    {
+      "path": "images/chemistry/expanded-salt-fe2o3-rust.jpg",
+      "caption": "Rust på jern: en blanding av blant annet hydratiserte jern(III)oksider og oksyhydroksider. Dette er ikke en prøve av rent FeO eller rent Fe₂O₃.",
+      "credit": "Laitr Keiows",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rust_on_iron.jpg",
+      "kind": "context",
+      "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+    }
+  ],
+  "salt:cuo": {
+    "path": "images/chemistry/expanded-salt-cuo.jpg",
+    "caption": "Svart kobber(II)oksid, CuO.",
+    "credit": "Adam Rędzikowski",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Copper(II)_oxide_sample.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:cu2o": {
+    "path": "images/chemistry/expanded-salt-cu2o.jpg",
+    "caption": "Prøve av kobber(I)oksid, Cu₂O.",
+    "credit": "Se originalkilden",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:CopperIoxide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:zno": {
+    "path": "images/chemistry/expanded-salt-zno.jpg",
+    "caption": "Sinkoksid som lyst pulver.",
+    "credit": "w:User:Walkerma",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Zinc_oxide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:al2o3": {
+    "path": "images/chemistry/expanded-salt-al2o3.jpg",
+    "caption": "Prøve av aluminiumoksid.",
+    "credit": "No machine-readable author provided.  Dorgan  assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Aluminium_oxide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:cacl2": {
+    "path": "images/chemistry/expanded-salt-cacl2.jpg",
+    "caption": "Vannfritt kalsiumklorid. Stoffet trekker til seg fuktighet fra lufta.",
+    "credit": "Picture taken by  User:Walkerma  in early 2005.",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Calcium_chloride.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:mgcl2": {
+    "path": "images/chemistry/expanded-salt-mgcl2.jpg",
+    "caption": "Prøve av magnesiumklorid. Kilden oppgir ikke vanninnholdet i prøven.",
+    "credit": "Se originalkilden",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Magnesium_chloride.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:mgo": {
+    "path": "images/chemistry/expanded-salt-mgo.jpg",
+    "caption": "Prøve av magnesiumoksid.",
+    "credit": "No machine-readable author provided.  Walkerma  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Magnesium_oxide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:kbr": {
+    "path": "images/chemistry/expanded-salt-kbr.jpg",
+    "caption": "Prøve av kaliumbromid.",
+    "credit": "Se originalkilden",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Potassium_bromide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:kcl": {
+    "path": "images/chemistry/expanded-salt-kcl.jpg",
+    "caption": "Prøve av kaliumklorid.",
+    "credit": "Se originalkilden",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Potassium_chloride.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:naf": {
+    "path": "images/chemistry/expanded-salt-naf.jpg",
+    "caption": "Natriumfluorid fra en laboratorieprøve.",
+    "credit": "Leiem",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_fluoride.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:nai": {
+    "path": "images/chemistry/expanded-salt-nai.jpg",
+    "caption": "Prøve av natriumjodid.",
+    "credit": "No machine-readable author provided.  Walkerma  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_iodide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:al2so43": {
+    "path": "images/chemistry/expanded-salt-al2so43.jpg",
+    "caption": "Aluminiumsulfat med krystallvann: Al₂(SO₄)₃·16H₂O. Dette er et hydrat, ikke vannfritt salt.",
+    "credit": "Picture taken by  Martin Walker  in June 2005.",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Aluminium_sulfate.jpg",
+    "kind": "hydrate",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:nh4cl": {
+    "path": "images/chemistry/expanded-salt-nh4cl.jpg",
+    "caption": "Prøve av ammoniumklorid, også kalt salmiakk.",
+    "credit": "Picture taken August 2005 by  User:Walkerma .",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Ammonium_chloride.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:kno3": {
+    "path": "images/chemistry/expanded-salt-kno3.jpg",
+    "caption": "Prøve av kaliumnitrat, salpeter.",
+    "credit": "w:User:Walkerma",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Potassium_nitrate.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:agno3": {
+    "path": "images/chemistry/expanded-salt-agno3.jpg",
+    "caption": "Reagensflaske med sølvnitrat. Bildet viser beholderen for laboratoriestoffet.",
+    "credit": "Choij  (  talk  )",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Silver_nitrate.jpg",
+    "kind": "context",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:na2so4": {
+    "path": "images/chemistry/expanded-salt-na2so4.jpg",
+    "caption": "Prøve av natriumsulfat. Kilden oppgir ikke vanninnholdet i prøven.",
+    "credit": "Se originalkilden",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_sulfate.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:na2so3": {
+    "path": "images/chemistry/expanded-salt-na2so3.jpg",
+    "caption": "Vannfritt natriumsulfitt.",
+    "credit": "W. Oelen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_sulfite.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:znso4": {
+    "path": "images/chemistry/expanded-salt-znso4.jpg",
+    "caption": "Prøve av sinksulfat. Kilden oppgir ikke hvilket hydrat prøven er.",
+    "credit": "Rqsulfates",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zinc_sulfate.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:agcl": {
+    "path": "images/chemistry/expanded-salt-agcl.jpg",
+    "caption": "Prøve av sølvklorid.",
+    "credit": "Vano3333",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Silver_chloride.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:fecl2": {
+    "path": "images/chemistry/expanded-salt-fecl2.jpg",
+    "caption": "Vannfritt jern(II)klorid, FeCl₂.",
+    "credit": "Leiem",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iron(II)_chloride_anhydrate.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:fecl3": {
+    "path": "images/chemistry/expanded-salt-fecl3.jpg",
+    "caption": "Jern(III)kloridheksahydrat, FeCl₃·6H₂O. Krystallene inneholder bundet vann.",
+    "credit": "Benjah-bmm27",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Iron(III)-chloride-hexahydrate-sample.jpg",
+    "kind": "hydrate",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:1176": {
+    "path": "images/chemistry/expanded-cid-1176.jpg",
+    "caption": "Ureakrystaller sett i mikroskop. Bildet viser detaljer i krystallmønsteret.",
+    "credit": "Photon 400 750",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:12_Urea_Crystals.jpg",
+    "kind": "microscopy",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:311": {
+    "path": "images/chemistry/expanded-cid-311.jpg",
+    "caption": "Sitronsyrekrystaller i polariserende mikroskop. Fargene skyldes blant annet lys og krystallorientering.",
+    "credit": "Doc. RNDr.  Josef Reischig , CSc.",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Citric_acid_crystals.jpg",
+    "kind": "microscopy",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:54670067": {
+    "path": "images/chemistry/expanded-cid-54670067.jpg",
+    "caption": "Prøve av askorbinsyre, vitamin C.",
+    "credit": "LHcheM",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sample_of_ascorbic_acid.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:971": {
+    "path": "images/chemistry/expanded-cid-971.jpg",
+    "caption": "Oksalsyredihydrat: oksalsyre krystallisert med to vannmolekyler per syremolekyl.",
+    "credit": "Leiem",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oxalic_acid_dihydrate.jpg",
+    "kind": "hydrate",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:243": {
+    "path": "images/chemistry/expanded-cid-243.jpg",
+    "caption": "Nåleformede krystaller av benzosyre.",
+    "credit": "Unknown61173",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Benzoic-acid-crystals.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:2519": {
+    "path": "images/chemistry/expanded-cid-2519.jpg",
+    "caption": "Koffein som har blitt sublimert og avsatt som krystaller.",
+    "credit": "TimausE",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sublimated_caffeine.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:176": {
+    "path": "images/chemistry/expanded-cid-176.jpg",
+    "caption": "Reagensflaske med eddiksyre. Dette er et laboratorieprodukt, ikke vanlig mateddik.",
+    "credit": "W. Oelen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acetic_acid.jpg",
+    "kind": "context",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:2244": {
+    "path": "images/chemistry/expanded-cid-2244.jpg",
+    "caption": "Prøve av acetylsalisylsyre, virkestoffet i aspirin.",
+    "credit": "Oxetane lacx",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acetylsalicylic_acid.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:7628": {
+    "path": "images/chemistry/expanded-cid-7628.jpg",
+    "caption": "Prøve av borsyre.",
+    "credit": "Se originalkilden",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Boric_acid.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:3672": {
+    "path": "images/chemistry/expanded-cid-3672.jpg",
+    "caption": "Legemiddelet Ibalgin med virkestoffet ibuprofen. Tablettene inneholder også hjelpestoffer.",
+    "credit": "Mvejr",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibuprofen.jpg",
+    "kind": "context",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:807": {
+    "path": "images/chemistry/expanded-cid-807.jpg",
+    "caption": "Prøve av fast jod, I₂.",
+    "credit": "Benjah-bmm27",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Iodine-sample.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:6134": {
+    "path": "images/chemistry/expanded-cid-6134.jpg",
+    "caption": "Laktosekrystaller i morsmelk, fotografert med polarisert lys ved 100 gangers forstørrelse. Dette er en mikroskopisk prøve, ikke rent laktosepulver.",
+    "credit": "MarekMiś",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lactose.jpg",
+    "kind": "microscopy",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:1254": {
+    "path": "images/chemistry/expanded-cid-1254.jpg",
+    "caption": "Mentolkrystaller.",
+    "credit": "FK1954",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Menthol.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:931": {
+    "path": "images/chemistry/expanded-cid-931.jpg",
+    "caption": "Naftalenkrystaller.",
+    "credit": "TimJW12",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Naphthalene.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:1983": {
+    "path": "images/chemistry/expanded-cid-1983.jpg",
+    "caption": "Krystallinske flak av paracetamol med høy renhet.",
+    "credit": "Oxetane lacx",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paracetamol.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:996": {
+    "path": "images/chemistry/expanded-cid-996.jpg",
+    "caption": "Fenolprøve med rødlig farge som skyldes urenheter. Ren fenol har ikke denne rødfargen.",
+    "credit": "Bahmtec",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phenol.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:338": {
+    "path": "images/chemistry/expanded-cid-338.jpg",
+    "caption": "Prøve av salisylsyre.",
+    "credit": "Adam Rędzikowski",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salicylic_acid.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "cid:1183": {
+    "path": "images/chemistry/expanded-cid-1183.jpg",
+    "caption": "Vanillinkrystaller. Vanillin er ett av aromastoffene i vanilje.",
+    "credit": "Doyale  ( Diskussion )",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vanillin.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:ki": {
+    "path": "images/chemistry/expanded-salt-ki.jpg",
+    "caption": "Prøve av kaliumjodid.",
+    "credit": "Se originalkilden",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Potassium_iodide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:nabr": {
+    "path": "images/chemistry/expanded-salt-nabr.jpg",
+    "caption": "Prøve av natriumbromid.",
+    "credit": "No machine-readable author provided.  Walkerma  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_bromide.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:li2co3": {
+    "path": "images/chemistry/expanded-salt-li2co3.jpg",
+    "caption": "Prøve av litiumkarbonat.",
+    "credit": "Se originalkilden",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithium_carbonate.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:nano2": {
+    "path": "images/chemistry/expanded-salt-nano2.jpg",
+    "caption": "Prøve av natriumnitritt.",
+    "credit": "No machine-readable author provided.  Walkerma  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_nitrite.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:na2s2o3": {
+    "path": "images/chemistry/expanded-salt-na2s2o3.jpg",
+    "caption": "Prøve av natriumtiosulfat. Kilden oppgir ikke vanninnholdet i prøven.",
+    "credit": "W. Oelen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_thiosulfate.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:licl": {
+    "path": "images/chemistry/expanded-salt-licl.jpg",
+    "caption": "Prøve av litiumklorid.",
+    "credit": "January 2005 by  User:Walkerma",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Lithium_chloride.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:k2co3": {
+    "path": "images/chemistry/expanded-salt-k2co3.jpg",
+    "caption": "Vannfritt kaliumkarbonat, også kalt pottaske.",
+    "credit": "No machine-readable author provided.  Walkerma  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Potassium_carbonate.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:cucl2": {
+    "path": "images/chemistry/expanded-salt-cucl2.jpg",
+    "caption": "Vannfritt kobber(II)klorid. Hydratiserte former kan ha en annen farge.",
+    "credit": "User:Walkerma",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Copper(II)_chloride.jpg",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:zncl2": {
+    "path": "images/chemistry/expanded-salt-zncl2.jpg",
+    "caption": "Sinkklorid med bundet vann. Bildet viser et hydrat.",
+    "credit": "User:Walkerma",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Zinc_chloride.jpg",
+    "kind": "hydrate",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  },
+  "salt:na2co3": {
+    "path": "images/chemistry/expanded-salt-na2co3.jpg",
+    "caption": "Prøve av natriumkarbonat (soda). Kilden oppgir ikke vanninnholdet i prøven.",
+    "credit": "Chemicalinterest",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "source": "https://commons.wikimedia.org/wiki/File:Sodium_carbonate.JPG",
+    "kind": "sample",
+    "changes": "Skalert til nettvisning; eventuelt konvertert til JPEG."
+  }
+}

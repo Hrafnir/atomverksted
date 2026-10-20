@@ -1,0 +1,1466 @@
+[
+  {
+    "number": 41,
+    "trivia": "Niob brukes i superledende magneter i MR-maskiner.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i mineraler som kolumbitt sammen med tantal.",
+    "forms": "Rent niob er et sølvfarget metall. I bergarter er det bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 93,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – niobium",
+        "url": "https://periodic-table.rsc.org/element/41/niobium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "trivia": "Molybden gjør stål sterkere, og små mengder er nødvendige i enzymer hos levende organismer.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Utvinnes særlig fra molybdenglans og som biprodukt fra annen gruvedrift.",
+    "forms": "Molybdenglans er molybdendisulfid, MoS₂. Rent molybden er et sølvfarget metall.",
+    "isotopes": [
+      {
+        "mass": 98,
+        "abundance": "ca. 24,29 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 96,
+        "abundance": "ca. 16,67 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 95,
+        "abundance": "ca. 15,87 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – molybdenum",
+        "url": "https://periodic-table.rsc.org/element/42/molybdenum"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "trivia": "Den opphissede kjernetilstanden teknetium-99m brukes til å ta medisinske bilder av organer.",
+    "universe": "Radioaktivt teknetium finnes i enkelte stjerner. Fordi isotopene henfaller, må stoffet ha blitt dannet forholdsvis nylig på kosmisk tidsskala.",
+    "earth": "Det teknetiumet vi bruker, fremstilles ved kjernereaksjoner. Opprinnelig teknetium fra jordas dannelse er for lengst henfalt.",
+    "forms": "Et radioaktivt metall; i medisinen brukes nøye utvalgte kjemiske forbindelser.",
+    "isotopes": [
+      {
+        "mass": 99,
+        "abundance": "ikke en naturlig prosentandel",
+        "note": "Radioaktiv isotop. Kjernetilstanden 99m brukes i medisinsk bildediagnostikk."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – technetium",
+        "url": "https://periodic-table.rsc.org/element/43/technetium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "trivia": "Rutenium kan gjøre platina hardere og brukes i elektriske kontakter.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Et sjeldent grunnstoff som finnes sammen med andre platinametaller og utvinnes ved nikkelraffinering.",
+    "forms": "Kan finnes som metall, men også sammen med andre metaller i malm.",
+    "isotopes": [
+      {
+        "mass": 102,
+        "abundance": "ca. 31,55 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 104,
+        "abundance": "ca. 18,62 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 101,
+        "abundance": "ca. 17,06 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – ruthenium",
+        "url": "https://periodic-table.rsc.org/element/44/ruthenium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "trivia": "Rhodium hjelper bilkatalysatorer med å omdanne nitrogenoksider i eksosen.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Et svært sjeldent metall, blant annet i kobber- og nikkelmalm.",
+    "forms": "Finnes både som metall sammen med platinametaller og bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 103,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – rhodium",
+        "url": "https://periodic-table.rsc.org/element/45/rhodium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "trivia": "Hydrogen kan passere gjennom oppvarmet palladium. Dette kan brukes til å rense hydrogengass.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes særlig i sulfidmalmer og utvinnes ofte sammen med nikkel.",
+    "forms": "Et sølvhvitt metall; i naturen blant annet i sulfidet braggitt.",
+    "isotopes": [
+      {
+        "mass": 106,
+        "abundance": "ca. 27,33 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 108,
+        "abundance": "ca. 26,46 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 105,
+        "abundance": "ca. 22,33 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – palladium",
+        "url": "https://periodic-table.rsc.org/element/46/palladium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "trivia": "Sølv blir mørkt fordi svovelforbindelser danner et lag av sølvsulfid på overflaten.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes både som rent metall og i mineraler; mye utvinnes sammen med andre metaller.",
+    "forms": "Sølvmetall, sølvsulfider og sølvklorid er eksempler på naturlige former.",
+    "isotopes": [
+      {
+        "mass": 107,
+        "abundance": "ca. 51,84 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 109,
+        "abundance": "ca. 48,16 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – silver",
+        "url": "https://periodic-table.rsc.org/element/47/silver"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "trivia": "Kadmium fanger lett nøytroner og kan brukes til å regulere kjernereaktorer.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Utvinnes hovedsakelig som biprodukt ved sinkproduksjon.",
+    "forms": "I naturen særlig bundet til svovel, blant annet i mineralet greenockitt. Rent kadmium er et giftig metall.",
+    "isotopes": [
+      {
+        "mass": 114,
+        "abundance": "ca. 28,75 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 112,
+        "abundance": "ca. 24,11 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 111,
+        "abundance": "ca. 12,80 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – cadmium",
+        "url": "https://periodic-table.rsc.org/element/48/cadmium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "trivia": "Indiumtinnoksid er både gjennomsiktig og strømledende og brukes i berøringsskjermer.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes spredt i malmer og utvinnes særlig sammen med sink.",
+    "forms": "Et mykt metall når det er rent; vanligvis bundet i mineraler i naturen.",
+    "isotopes": [
+      {
+        "mass": 115,
+        "abundance": "ca. 95,72 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      },
+      {
+        "mass": 113,
+        "abundance": "ca. 4,28 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – indium",
+        "url": "https://periodic-table.rsc.org/element/49/indium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "trivia": "Mye vindusglass blir laget ved at smeltet glass flyter på smeltet tinn.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Den viktigste malmen er kassiteritt.",
+    "forms": "I naturen særlig tinnoksid, SnO₂. Rent tinn finnes i ulike krystallformer, blant annet hvitt og grått tinn.",
+    "isotopes": [
+      {
+        "mass": 120,
+        "abundance": "ca. 32,58 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 118,
+        "abundance": "ca. 24,22 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 116,
+        "abundance": "ca. 14,54 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – tin",
+        "url": "https://periodic-table.rsc.org/element/50/tin"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "trivia": "Antimon kan gjøre blylegeringer hardere og brukes også i enkelte halvledere.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i mange mineraler, vanligst som antimonsulfid.",
+    "forms": "Vanligvis bundet i stibnitt, Sb₂S₃, men kan også finnes fritt. Rent antimon er et sprøtt halvmetall.",
+    "isotopes": [
+      {
+        "mass": 121,
+        "abundance": "ca. 57,21 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 123,
+        "abundance": "ca. 42,79 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – antimony",
+        "url": "https://periodic-table.rsc.org/element/51/antimony"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "trivia": "Tellur brukes blant annet i solceller og omskrivbare optiske plater.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Et sjeldent stoff i jordskorpen som ofte utvinnes ved kobberraffinering.",
+    "forms": "Finnes i telluridmineraler, blant annet sammen med gull, og sjelden fritt.",
+    "isotopes": [
+      {
+        "mass": 130,
+        "abundance": "ca. 34,08 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      },
+      {
+        "mass": 128,
+        "abundance": "ca. 31,74 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      },
+      {
+        "mass": 126,
+        "abundance": "ca. 18,84 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – tellurium",
+        "url": "https://periodic-table.rsc.org/element/52/tellurium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "trivia": "Jod er nødvendig for hormonene i skjoldbruskkjertelen.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i små mengder i sjøvann, i tang og i saltlaker og enkelte mineraler.",
+    "forms": "I naturen ofte jodid eller jodat. Rent jod består av I₂-molekyler og gir fiolett damp.",
+    "isotopes": [
+      {
+        "mass": 127,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – iodine",
+        "url": "https://periodic-table.rsc.org/element/53/iodine"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "trivia": "Xenon brukes som drivstoff i enkelte romfartøyers ionemotorer.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "En svært liten del av atmosfæren er xenon, som kan skilles ut fra flytende luft.",
+    "forms": "En fargeløs edelgass av enkeltatomer; den reagerer lite, men kan danne noen forbindelser.",
+    "isotopes": [
+      {
+        "mass": 132,
+        "abundance": "ca. 26,91 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 129,
+        "abundance": "ca. 26,40 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 131,
+        "abundance": "ca. 21,23 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – xenon",
+        "url": "https://periodic-table.rsc.org/element/54/xenon"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "trivia": "Cesiumatomer brukes i atomklokker som gir svært nøyaktig tid.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes blant annet i mineralene pollucitt og lepidolitt.",
+    "forms": "I naturen bundet i mineraler. Rent cesium er et mykt, gyllent metall som reagerer voldsomt med vann.",
+    "isotopes": [
+      {
+        "mass": 133,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – caesium",
+        "url": "https://periodic-table.rsc.org/element/55/caesium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "trivia": "Bariumsalter kan gi grønn farge i fyrverkeri.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes bundet i mineraler som barytt og witheritt.",
+    "forms": "Vanlige mineralformer er bariumsulfat, BaSO₄, og bariumkarbonat, BaCO₃. Det rene metallet reagerer lett.",
+    "isotopes": [
+      {
+        "mass": 138,
+        "abundance": "ca. 71,70 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 137,
+        "abundance": "ca. 11,23 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 136,
+        "abundance": "ca. 7,85 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – barium",
+        "url": "https://periodic-table.rsc.org/element/56/barium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "trivia": "Lantanoksid brukes i spesialglass med gode optiske egenskaper.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes sammen med andre sjeldne jordartsmetaller i monazitt og bastnäsitt.",
+    "forms": "Bundet i mineraler i naturen; som rent stoff et mykt, sølvhvitt metall.",
+    "isotopes": [
+      {
+        "mass": 139,
+        "abundance": "ca. 99,91 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 138,
+        "abundance": "ca. 0,09 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – lanthanum",
+        "url": "https://periodic-table.rsc.org/element/57/lanthanum"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "trivia": "Cerium i lighterlegeringer hjelper til med å lage gnister.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Det vanligste lantanoidet i jordskorpen; finnes blant annet i monazitt og bastnäsitt.",
+    "forms": "Vanligvis bundet i mineraler. Rent cerium er et grått metall som lett reagerer med omgivelsene.",
+    "isotopes": [
+      {
+        "mass": 140,
+        "abundance": "ca. 88,45 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 142,
+        "abundance": "ca. 11,11 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – cerium",
+        "url": "https://periodic-table.rsc.org/element/58/cerium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "trivia": "Praseodymforbindelser kan gi glass og keramikk en kraftig gul farge.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes sammen med andre lantanoider, særlig i monazitt og bastnäsitt.",
+    "forms": "Mineralbundne forbindelser i naturen; som rent stoff et mykt, sølvfarget metall.",
+    "isotopes": [
+      {
+        "mass": 141,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – praseodymium",
+        "url": "https://periodic-table.rsc.org/element/59/praseodymium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "trivia": "Neodym, jern og bor kan sammen lage svært sterke permanente magneter.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Utvinnes fra mineraler som monazitt og bastnäsitt.",
+    "forms": "Bundet i mineraler i naturen. Rent neodym er et sølvhvitt metall som raskt får et oksidlag i luft.",
+    "isotopes": [
+      {
+        "mass": 142,
+        "abundance": "ca. 27,15 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 144,
+        "abundance": "ca. 23,80 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      },
+      {
+        "mass": 146,
+        "abundance": "ca. 17,19 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – neodymium",
+        "url": "https://periodic-table.rsc.org/element/60/neodymium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "trivia": "Promethium har vært brukt i små spesialbatterier som henter energi fra radioaktivt henfall.",
+    "universe": "Har ingen stabile isotoper og kan derfor ikke bygge opp et varig lager i universet. Eventuell forekomst må skyldes nylig produksjon i kjernereaksjoner.",
+    "earth": "Fremstilles for bruk ved kjernereaksjoner. Ingen isotop varer lenge nok til å ha overlevd siden jordas dannelse.",
+    "forms": "Et radioaktivt metall; vanligvis håndteres små mengder av stoffet eller forbindelsene i laboratorier.",
+    "isotopes": [
+      {
+        "mass": 145,
+        "abundance": "ingen fast naturlig andel",
+        "note": "Radioaktiv isotop fremstilt i laboratorier; ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 147,
+        "abundance": "ingen fast naturlig andel",
+        "note": "Radioaktiv isotop fremstilt i laboratorier; ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – promethium",
+        "url": "https://periodic-table.rsc.org/element/61/promethium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "trivia": "Samarium-kobolt-magneter beholder magnetismen godt også når de blir varme.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes sammen med andre lantanoider i blant annet monazitt og bastnäsitt.",
+    "forms": "I naturen kjemisk bundet i mineraler; rent samarium er sølvhvitt metall.",
+    "isotopes": [
+      {
+        "mass": 152,
+        "abundance": "ca. 26,74 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 154,
+        "abundance": "ca. 22,74 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 147,
+        "abundance": "ca. 15,00 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – samarium",
+        "url": "https://periodic-table.rsc.org/element/62/samarium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "trivia": "Europiumforbindelser kan lyse rødt under UV-lys og brukes blant annet i sikkerhetstrykk.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes hovedsakelig sammen med andre sjeldne jordartsmetaller i mineraler.",
+    "forms": "I naturen mineralbundet; rent europium er et mykt metall som raskt reagerer med luft og vann.",
+    "isotopes": [
+      {
+        "mass": 153,
+        "abundance": "ca. 52,19 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 151,
+        "abundance": "ca. 47,81 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – europium",
+        "url": "https://periodic-table.rsc.org/element/63/europium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "trivia": "Gadoliniumforbindelser brukes i noen kontrastmidler til MR-undersøkelser.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes blant annet i monazitt og bastnäsitt.",
+    "forms": "Bundet i mineraler i naturen; som rent stoff et sølvfarget metall.",
+    "isotopes": [
+      {
+        "mass": 158,
+        "abundance": "ca. 24,82 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 160,
+        "abundance": "ca. 21,81 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 156,
+        "abundance": "ca. 20,49 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – gadolinium",
+        "url": "https://periodic-table.rsc.org/element/64/gadolinium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "trivia": "En legering av terbium, dysprosium og jern kan endre lengde i et magnetfelt.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i monazitt, bastnäsitt og euxenitt sammen med andre metaller.",
+    "forms": "Vanligvis mineralbundet. Rent terbium er et mykt, sølvfarget metall.",
+    "isotopes": [
+      {
+        "mass": 159,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – terbium",
+        "url": "https://periodic-table.rsc.org/element/65/terbium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "trivia": "Dysprosium kan hjelpe sterke magneter med å tåle høy temperatur uten å miste magnetismen.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i mineraler som monazitt, bastnäsitt og xenotim.",
+    "forms": "Bundet i mineraler; det rene metallet er blankt og sølvfarget og reagerer med luft og vann.",
+    "isotopes": [
+      {
+        "mass": 164,
+        "abundance": "ca. 28,26 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 162,
+        "abundance": "ca. 25,48 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 163,
+        "abundance": "ca. 24,90 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – dysprosium",
+        "url": "https://periodic-table.rsc.org/element/66/dysprosium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "trivia": "Holmium kan absorbere nøytroner og brukes i noen reaktoranvendelser og magnetlegeringer.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i små mengder i blant annet monazitt og bastnäsitt.",
+    "forms": "Mineralbundet i naturen; rent holmium er et sølvfarget metall.",
+    "isotopes": [
+      {
+        "mass": 165,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – holmium",
+        "url": "https://periodic-table.rsc.org/element/67/holmium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "trivia": "Erbium i glassfiber kan forsterke lyssignalene som bærer internettdata.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes særlig i mineraler som monazitt og bastnäsitt.",
+    "forms": "I naturen bundet i mineraler. Rent erbium er sølvfarget, mens forbindelser kan gi glass rosa farge.",
+    "isotopes": [
+      {
+        "mass": 166,
+        "abundance": "ca. 33,50 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 168,
+        "abundance": "ca. 26,98 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 167,
+        "abundance": "ca. 22,87 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – erbium",
+        "url": "https://periodic-table.rsc.org/element/68/erbium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "trivia": "Thulium brukes i enkelte lasere, og en radioaktiv isotop kan brukes som røntgenkilde.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i svært små mengder, blant annet i mineralet monazitt.",
+    "forms": "I naturen bundet i mineraler; som rent stoff et blankt, sølvfarget metall.",
+    "isotopes": [
+      {
+        "mass": 169,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – thulium",
+        "url": "https://periodic-table.rsc.org/element/69/thulium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "trivia": "Ytterbium kan brukes i lasere og som katalysator.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes sammen med andre lantanoider, blant annet i monazitt.",
+    "forms": "Mineralbundet i naturen. Rent ytterbium er et mykt metall med et beskyttende oksidlag i luft.",
+    "isotopes": [
+      {
+        "mass": 174,
+        "abundance": "ca. 31,90 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 172,
+        "abundance": "ca. 21,75 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 173,
+        "abundance": "ca. 16,10 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – ytterbium",
+        "url": "https://periodic-table.rsc.org/element/70/ytterbium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "trivia": "Lutetium er det siste lantanoidet i periodesystemet og brukes blant annet i enkelte katalysatorer.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i små mengder sammen med andre sjeldne jordartsmetaller, særlig i monazitt.",
+    "forms": "Bundet i mineraler; rent lutetium er hardt, tett og sølvhvitt.",
+    "isotopes": [
+      {
+        "mass": 175,
+        "abundance": "ca. 97,41 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 176,
+        "abundance": "ca. 2,59 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – lutetium",
+        "url": "https://periodic-table.rsc.org/element/71/lutetium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "trivia": "Hafniumoksid brukes som elektrisk isolator i mikrobrikker.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes sammen med zirkonium i zirkoniummalmer.",
+    "forms": "Vanligvis mineralbundet. Rent hafnium er et blankt metall som motstår korrosjon.",
+    "isotopes": [
+      {
+        "mass": 180,
+        "abundance": "ca. 35,12 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 178,
+        "abundance": "ca. 27,28 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 177,
+        "abundance": "ca. 18,58 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – hafnium",
+        "url": "https://periodic-table.rsc.org/element/72/hafnium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "trivia": "Tantal brukes i små kondensatorer i elektronikk og tåler korrosjon svært godt.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes særlig sammen med niob i kolumbitt-tantalitt.",
+    "forms": "Vanligvis bundet i oksidmineraler; rent tantal er et sølvfarget metall.",
+    "isotopes": [
+      {
+        "mass": 181,
+        "abundance": "ca. 99,988 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 180,
+        "abundance": "ca. 0,012 %",
+        "note": "Den naturlige forekomsten gjelder den svært langlivede, opphissede kjernetilstanden 180m."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – tantalum",
+        "url": "https://periodic-table.rsc.org/element/73/tantalum"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "trivia": "Wolfram har det høyeste smeltepunktet av alle metaller og ble brukt i glødetråder.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "De viktigste malmene er scheelitt og wolframitt.",
+    "forms": "I naturen i wolframatmineraler. Rent wolfram er et metall; wolframkarbid er en svært hard forbindelse brukt i verktøy.",
+    "isotopes": [
+      {
+        "mass": 184,
+        "abundance": "ca. 30,64 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 186,
+        "abundance": "ca. 28,43 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 182,
+        "abundance": "ca. 26,50 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – tungsten",
+        "url": "https://periodic-table.rsc.org/element/74/tungsten"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "trivia": "Rhenium brukes i legeringer som må tåle svært høy temperatur, blant annet i turbinblader.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Et svært sjeldent stoff i jordskorpen som utvinnes ved behandling av molybdenmalm.",
+    "forms": "Vanligvis som små innslag i malm; rent rhenium er et metall med svært høyt smeltepunkt.",
+    "isotopes": [
+      {
+        "mass": 187,
+        "abundance": "ca. 62,60 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      },
+      {
+        "mass": 185,
+        "abundance": "ca. 37,40 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – rhenium",
+        "url": "https://periodic-table.rsc.org/element/75/rhenium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "trivia": "Osmium er blant stoffene med aller høyest tetthet: en liten klump kan være overraskende tung.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes sammen med andre platinametaller og utvinnes blant annet ved nikkelraffinering.",
+    "forms": "Kan finnes som metall og i naturlige legeringer med iridium.",
+    "isotopes": [
+      {
+        "mass": 192,
+        "abundance": "ca. 40,78 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 190,
+        "abundance": "ca. 26,26 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 189,
+        "abundance": "ca. 16,15 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – osmium",
+        "url": "https://periodic-table.rsc.org/element/76/osmium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "trivia": "Et iridiumrikt lag i bergarter var et viktig spor etter asteroiden som traff jorda ved slutten av krittiden.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Svært sjeldent i jordskorpen; finnes også i meteoritter og utvinnes sammen med andre metaller.",
+    "forms": "Kan finnes som metall i naturlige legeringer og avsetninger.",
+    "isotopes": [
+      {
+        "mass": 193,
+        "abundance": "ca. 62,77 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 191,
+        "abundance": "ca. 37,23 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – iridium",
+        "url": "https://periodic-table.rsc.org/element/77/iridium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "trivia": "Platina er en katalysator som kan få reaksjoner til å gå raskere uten selv å brukes opp.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes både som metall i elveavsetninger og i mineraler som cooperitt.",
+    "forms": "Fritt metall, naturlige legeringer og platinasulfid er viktige former.",
+    "isotopes": [
+      {
+        "mass": 195,
+        "abundance": "ca. 33,78 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 194,
+        "abundance": "ca. 32,86 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 196,
+        "abundance": "ca. 25,21 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – platinum",
+        "url": "https://periodic-table.rsc.org/element/78/platinum"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "trivia": "Gull kan bankes ut til svært tynne blad. Smykkegull blandes ofte med andre metaller for å bli hardere.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes i årer i bergarter og i løsmasser langs elver, ofte som fritt metall.",
+    "forms": "Gullmetall og naturlige legeringer er vanlige former; gull reagerer lite med luft og vann.",
+    "isotopes": [
+      {
+        "mass": 197,
+        "abundance": "ca. 100 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – gold",
+        "url": "https://periodic-table.rsc.org/element/79/gold"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "trivia": "Kvikksølv er et metall som er flytende ved vanlig romtemperatur.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes særlig i mineralet sinober og av og til som små metalldråper.",
+    "forms": "Sinober er kvikksølvsulfid, HgS. Rent kvikksølv er en sølvfarget væske.",
+    "isotopes": [
+      {
+        "mass": 202,
+        "abundance": "ca. 29,74 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 200,
+        "abundance": "ca. 23,14 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 199,
+        "abundance": "ca. 16,94 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – mercury",
+        "url": "https://periodic-table.rsc.org/element/80/mercury"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "trivia": "Thallium ble oppdaget ved hjelp av en karakteristisk grønn linje i lysspekteret.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes spredt i malmer og utvinnes som biprodukt ved raffinering av andre metaller.",
+    "forms": "Vanligvis bundet i mineraler. Rent thallium er et mykt, sølvhvitt og giftig metall.",
+    "isotopes": [
+      {
+        "mass": 205,
+        "abundance": "ca. 70,41–70,56 %",
+        "note": "Naturlig isotop."
+      },
+      {
+        "mass": 203,
+        "abundance": "ca. 29,44–29,59 %",
+        "note": "Naturlig isotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – thallium",
+        "url": "https://periodic-table.rsc.org/element/81/thallium"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "trivia": "Bly brukes til blant annet batterier og skjerming mot stråling fordi det er tett og lett å forme.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Den viktigste malmen er blyglans; mye bly gjenvinnes fra brukte produkter.",
+    "forms": "Blyglans er blysulfid, PbS. Rent bly er et mykt, grått metall.",
+    "isotopes": [
+      {
+        "mass": 208,
+        "abundance": "ca. 3,38–97,75 %",
+        "note": "Andelen varierer svært mye mellom bergarter; henfall av tyngre grunnstoffer tilfører bly."
+      },
+      {
+        "mass": 206,
+        "abundance": "ca. 1,90–86,73 %",
+        "note": "Andelen varierer svært mye mellom bergarter; henfall av tyngre grunnstoffer tilfører bly."
+      },
+      {
+        "mass": 207,
+        "abundance": "ca. 0,35–23,51 %",
+        "note": "Andelen varierer svært mye mellom bergarter; henfall av tyngre grunnstoffer tilfører bly."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – lead",
+        "url": "https://periodic-table.rsc.org/element/82/lead"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "trivia": "Vismutlegeringer kan ha lave smeltepunkter og brukes blant annet i sikringer.",
+    "universe": "Et sporgrunnstoff i kosmisk stoff, mye sjeldnere enn hydrogen og helium. Atomkjernene ble dannet gjennom prosesser i tidligere stjerner og stjernehendelser før solsystemet oppsto.",
+    "earth": "Finnes både som metall og i mineraler, ofte som biprodukt ved annen metallproduksjon.",
+    "forms": "Fritt vismut, sulfidet vismutglans og oksidet bismitt er naturlige former.",
+    "isotopes": [
+      {
+        "mass": 209,
+        "abundance": "ca. 100 %",
+        "note": "Radioaktiv, men så langsom å henfalle at den fortsatt finnes naturlig."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – bismuth",
+        "url": "https://periodic-table.rsc.org/element/83/bismuth"
+      },
+      {
+        "title": "CIAAW – naturlige isotopandeler",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  }
+]

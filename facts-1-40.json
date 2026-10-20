@@ -1,0 +1,1507 @@
+[
+  {
+    "number": 1,
+    "trivia": "Hydrogen er det letteste grunnstoffet. Fusjon av hydrogen gir sola mye av energien sin.",
+    "universe": "Universets vanligste grunnstoff; finnes i stjerner og store gasskyer.",
+    "earth": "På jorda er det særlig bundet i vann og organiske stoffer.",
+    "forms": "Rent hydrogen er en fargeløs gass av H₂-molekyler ved romtemperatur.",
+    "isotopes": [
+      {
+        "mass": 1,
+        "abundance": "99,972–99,999 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 2,
+        "abundance": "0,001–0,028 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Hydrogen",
+        "url": "https://periodic-table.rsc.org/element/1/hydrogen"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "trivia": "Helium ble oppdaget i sollyset før det ble funnet på jorda.",
+    "universe": "Det nest vanligste grunnstoffet i universet, med store mengder i stjernene.",
+    "earth": "Dannes ved radioaktiv nedbrytning i bergarter og kan samles i naturgass.",
+    "forms": "Fargeløs edelgass av enkeltatomer; reagerer svært lite.",
+    "isotopes": [
+      {
+        "mass": 4,
+        "abundance": "omtrent 99,9998 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 3,
+        "abundance": "omtrent 0,0002 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Helium",
+        "url": "https://periodic-table.rsc.org/element/2/helium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "trivia": "Litium er det letteste metallet og brukes i oppladbare batterier.",
+    "universe": "Et sjeldent grunnstoff i universet; noe ble dannet tidlig, og mer dannes blant annet i novaer.",
+    "earth": "Utvinning skjer fra saltholdig vann og mineraler som spodumen.",
+    "forms": "Et mykt, sølvfarget metall som i naturen finnes bundet i salter og mineraler.",
+    "isotopes": [
+      {
+        "mass": 7,
+        "abundance": "92,2–98,1 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 6,
+        "abundance": "1,9–7,8 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Lithium",
+        "url": "https://periodic-table.rsc.org/element/3/lithium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://www.nasa.gov/universe/galaxies/lithium-comes-from-exploding-stars/"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "trivia": "Smaragd og akvamarin er varianter av berylliummineralet beryll.",
+    "universe": "Sjeldent i universet; dannes blant annet når kosmisk stråling splitter tyngre atomkjerner.",
+    "earth": "Finnes særlig i mineralene beryll og bertranditt.",
+    "forms": "Et hardt, lett metall; forekommer normalt i kjemiske forbindelser.",
+    "isotopes": [
+      {
+        "mass": 9,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Beryllium",
+        "url": "https://periodic-table.rsc.org/element/4/beryllium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://imagine.gsfc.nasa.gov/science/toolbox/cosmic_rays2_orig.html"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "trivia": "Borforbindelser gjør varmebestandig glass bedre til å tåle temperaturendringer.",
+    "universe": "Sjeldent i universet; kosmisk stråling som splitter tyngre kjerner er en viktig kilde.",
+    "earth": "Finnes i boratmineraler, blant annet boraks, i enkelte saltavsetninger.",
+    "forms": "Rent bor er et hardt, mørkt fast stoff; i naturen er det vanligvis bundet til oksygen.",
+    "isotopes": [
+      {
+        "mass": 11,
+        "abundance": "79,6–81,1 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 10,
+        "abundance": "18,9–20,4 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Boron",
+        "url": "https://periodic-table.rsc.org/element/5/boron"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://imagine.gsfc.nasa.gov/science/toolbox/cosmic_rays2_orig.html"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "trivia": "Diamant og grafitt består begge av karbon, men atomene er ordnet forskjellig.",
+    "universe": "Finnes i stjerner, kosmisk støv og mange molekyler i verdensrommet.",
+    "earth": "Finnes i alt kjent liv, karbonater, kull, olje og karbondioksid.",
+    "forms": "Grafitt og diamant er rene former; karbon finnes også i svært mange forbindelser.",
+    "isotopes": [
+      {
+        "mass": 12,
+        "abundance": "98,84–99,04 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 13,
+        "abundance": "0,96–1,16 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 14,
+        "abundance": "spor",
+        "note": "Radioaktiv; brukes til å datere organisk materiale."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Carbon",
+        "url": "https://periodic-table.rsc.org/element/6/carbon"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "trivia": "Nitrogen er nødvendig for proteiner og DNA.",
+    "universe": "Finnes i stjerner og i gass og molekyler mellom stjernene.",
+    "earth": "Omtrent 78 prosent av tørr luft er nitrogengass; nitrogen finnes også i levende organismer og nitrater.",
+    "forms": "Rent nitrogen er den fargeløse gassen N₂ ved romtemperatur.",
+    "isotopes": [
+      {
+        "mass": 14,
+        "abundance": "99,578–99,663 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 15,
+        "abundance": "0,337–0,422 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Nitrogen",
+        "url": "https://periodic-table.rsc.org/element/7/nitrogen"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "trivia": "Oksygen er nødvendig for celleåndingen vår og inngår i vann.",
+    "universe": "Et av de vanligste grunnstoffene etter hydrogen og helium; finnes i stjerner, gass og støv.",
+    "earth": "Omtrent 21 prosent av tørr luft er O₂. Oksygen er også svært vanlig i vann og bergarter.",
+    "forms": "Vanlig oksygengass er O₂; ozon er O₃. I mineraler er oksygen bundet til andre grunnstoffer.",
+    "isotopes": [
+      {
+        "mass": 16,
+        "abundance": "99,738–99,776 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 18,
+        "abundance": "0,187–0,222 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 17,
+        "abundance": "0,0367–0,0400 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Oxygen",
+        "url": "https://periodic-table.rsc.org/element/8/oxygen"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "trivia": "Fluorid i tannkrem bidrar til å beskytte tennene; fluorid er noe annet enn ren fluorgass.",
+    "universe": "Et relativt sjeldent grunnstoff som er dannet gjennom prosesser knyttet til stjerner.",
+    "earth": "Finnes i mineraler som fluoritt og fluorapatitt.",
+    "forms": "Rent fluor er en svært reaktiv, blekgul F₂-gass; i naturen finnes det i forbindelser.",
+    "isotopes": [
+      {
+        "mass": 19,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Fluorine",
+        "url": "https://periodic-table.rsc.org/element/9/fluorine"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "trivia": "Neon gir det karakteristiske rødoransje lyset i ekte neonrør.",
+    "universe": "Finnes i stjerner og gass i verdensrommet og er langt vanligere der enn i jordlufta.",
+    "earth": "Finnes i små mengder i atmosfæren og skilles ut fra flytende luft.",
+    "forms": "Fargeløs edelgass av enkeltatomer ved romtemperatur.",
+    "isotopes": [
+      {
+        "mass": 20,
+        "abundance": "90,48 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 22,
+        "abundance": "9,25 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 21,
+        "abundance": "0,27 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Neon",
+        "url": "https://periodic-table.rsc.org/element/10/neon"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "trivia": "Natriummetall reagerer kraftig med vann, mens natriumioner finnes i vanlig bordsalt.",
+    "universe": "Dannes i stjerner og finnes i stoffet som stjerner sprer ut i rommet.",
+    "earth": "Vanlig i havvann, steinsalt og mange bergartsmineraler.",
+    "forms": "Et mykt metall; i naturen finnes natrium normalt som Na⁺ i forbindelser.",
+    "isotopes": [
+      {
+        "mass": 23,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Sodium",
+        "url": "https://periodic-table.rsc.org/element/11/sodium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "trivia": "Magnesium sitter midt i klorofyllmolekylet som gjør planter i stand til å fange lys.",
+    "universe": "Finnes i stjerner og som bestanddel av støv og steinmateriale i rommet.",
+    "earth": "Vanlig i jordskorpa, blant annet i dolomitt, og som oppløste ioner i havet.",
+    "forms": "Et lett, sølvfarget metall; i naturen vanligvis bundet i mineraler og salter.",
+    "isotopes": [
+      {
+        "mass": 24,
+        "abundance": "78,88–79,05 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 26,
+        "abundance": "10,96–11,09 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 25,
+        "abundance": "9,988–10,034 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Magnesium",
+        "url": "https://periodic-table.rsc.org/element/12/magnesium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "trivia": "Aluminium er det vanligste metallet i jordskorpa.",
+    "universe": "Finnes i stjerner og i støvet og steinmaterialet som planeter dannes av.",
+    "earth": "Finnes i mange silikatmineraler; bauksitt er den viktigste malmråvaren.",
+    "forms": "Rent aluminium er et lett metall med et beskyttende oksidlag; naturen inneholder først og fremst forbindelser.",
+    "isotopes": [
+      {
+        "mass": 27,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Aluminium",
+        "url": "https://periodic-table.rsc.org/element/13/aluminium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "trivia": "Silisium brukes i databrikker og solceller.",
+    "universe": "En viktig bestanddel i steinstøv i rommet og i steinplaneter.",
+    "earth": "Det nest vanligste grunnstoffet i jordskorpa, særlig i silikater og silisiumdioksid.",
+    "forms": "Rent silisium er et grått, sprøtt fast stoff; kvarts og silikatmineraler er vanlige naturlige forbindelser.",
+    "isotopes": [
+      {
+        "mass": 28,
+        "abundance": "92,191–92,318 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 29,
+        "abundance": "4,645–4,699 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 30,
+        "abundance": "3,037–3,110 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Silicon",
+        "url": "https://periodic-table.rsc.org/element/14/silicon"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "trivia": "Fosfor inngår i DNA og i ATP, som cellene bruker til energiomsetning.",
+    "universe": "Finnes i små mengder i kosmisk stoff og er dannet i stjerner og stjerneeksplosjoner.",
+    "earth": "Finnes særlig som fosfater i mineraler og i levende organismer.",
+    "forms": "I naturen vanligvis fosfater. Rent fosfor finnes blant annet som hvitt, rødt og svart fosfor med ulike egenskaper.",
+    "isotopes": [
+      {
+        "mass": 31,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Phosphorus",
+        "url": "https://periodic-table.rsc.org/element/15/phosphorus"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "trivia": "Lukten av råtne egg skyldes hydrogensulfid, ikke rent svovel.",
+    "universe": "Finnes i stjerner, gasskyer og forbindelser i solsystemet.",
+    "earth": "Finnes både som rent svovel og i sulfid- og sulfatmineraler.",
+    "forms": "Rent svovel er et gult fast stoff, ofte med S₈-molekyler; også vanlig i kjemiske forbindelser.",
+    "isotopes": [
+      {
+        "mass": 32,
+        "abundance": "94,41–95,29 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 34,
+        "abundance": "3,96–4,77 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 33,
+        "abundance": "0,729–0,797 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Sulfur",
+        "url": "https://periodic-table.rsc.org/element/16/sulfur"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "trivia": "Kloridionet i bordsalt har andre egenskaper enn giftig klorgass.",
+    "universe": "Finnes i mindre mengder i kosmisk stoff og ble dannet gjennom stjerneprosesser.",
+    "earth": "Vanlig som klorid i havvann og i saltavsetninger.",
+    "forms": "Rent klor er gulgrønn Cl₂-gass; i naturen finnes det først og fremst som klorid i salter.",
+    "isotopes": [
+      {
+        "mass": 35,
+        "abundance": "75,5–76,1 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 37,
+        "abundance": "23,9–24,5 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Chlorine",
+        "url": "https://periodic-table.rsc.org/element/17/chlorine"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "trivia": "Argon brukes som beskyttelsesgass ved sveising fordi det reagerer svært lite.",
+    "universe": "Finnes i stjerner og gass i verdensrommet.",
+    "earth": "Omtrent 0,93 prosent av tørr luft er argon. Mye av jordas argon-40 kommer fra radioaktivt kalium.",
+    "forms": "Fargeløs edelgass av enkeltatomer ved romtemperatur.",
+    "isotopes": [
+      {
+        "mass": 40,
+        "abundance": "93,6–100 %",
+        "note": "Stabil; naturlig andel varierer mye mellom prøver. Luft domineres av argon-40."
+      },
+      {
+        "mass": 36,
+        "abundance": "0–2,07 %",
+        "note": "Stabil; naturlig andel varierer mye mellom prøver. Luft domineres av argon-40."
+      },
+      {
+        "mass": 38,
+        "abundance": "0–4,3 %",
+        "note": "Stabil; naturlig andel varierer mye mellom prøver. Luft domineres av argon-40."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Argon",
+        "url": "https://periodic-table.rsc.org/element/18/argon"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "trivia": "Kaliumioner hjelper nerve- og muskelceller med å sende signaler.",
+    "universe": "Finnes i mindre mengder i stjerner og i materiale som danner steinplaneter.",
+    "earth": "Finnes i mineraler som feltspat og glimmer og i kaliumsalter; viktig plantenæring.",
+    "forms": "Et mykt og svært reaktivt metall; naturlig kalium finnes normalt som K⁺ i forbindelser.",
+    "isotopes": [
+      {
+        "mass": 39,
+        "abundance": "93,2581 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 41,
+        "abundance": "6,7302 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 40,
+        "abundance": "0,0117 %",
+        "note": "Naturlig radioaktiv isotop med svært lang halveringstid."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Potassium",
+        "url": "https://periodic-table.rsc.org/element/19/potassium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "trivia": "Kalsiumforbindelser gir knokler og tenner styrke.",
+    "universe": "Finnes i stjerner og i steinmateriale i rommet.",
+    "earth": "Vanlig i kalkstein, gips og mange andre mineraler.",
+    "forms": "Et sølvfarget metall i ren form; normalt bundet i blant annet karbonater, sulfater og fosfater.",
+    "isotopes": [
+      {
+        "mass": 40,
+        "abundance": "96,941 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 44,
+        "abundance": "2,086 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 42,
+        "abundance": "0,647 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Calcium",
+        "url": "https://periodic-table.rsc.org/element/20/calcium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "trivia": "Scandium kan gjøre aluminiumlegeringer sterkere.",
+    "universe": "Et lite utbredt grunnstoff i kosmisk stoff, dannet gjennom stjerneprosesser.",
+    "earth": "Spredt i små mengder i mange mineraler; rike forekomster er sjeldne.",
+    "forms": "Et sølvfarget metall; i naturen vanligvis bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 45,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Scandium",
+        "url": "https://periodic-table.rsc.org/element/21/scandium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "trivia": "Titandioksid er et viktig hvitt pigment i maling.",
+    "universe": "Finnes i steinmateriale i solsystemet og stammer fra stjerneprosesser.",
+    "earth": "Finnes blant annet i mineralene ilmenitt og rutil.",
+    "forms": "Rent titan er et sterkt, lett metall med et beskyttende oksidlag; naturlig forekommer det i mineraler.",
+    "isotopes": [
+      {
+        "mass": 48,
+        "abundance": "73,72 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 46,
+        "abundance": "8,25 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 47,
+        "abundance": "7,44 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Titanium",
+        "url": "https://periodic-table.rsc.org/element/22/titanium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "trivia": "Vanadium er oppkalt etter Vanadis, et navn på den norrøne gudinnen Frøya.",
+    "universe": "Finnes i mindre mengder i kosmisk stoff og har opphav i stjerneprosesser.",
+    "earth": "Finnes i en rekke mineraler, blant annet vanadinitt, og i enkelte oljeavsetninger.",
+    "forms": "Et metall som normalt finnes bundet i mineraler; forbindelsene kan ha flere sterke farger.",
+    "isotopes": [
+      {
+        "mass": 51,
+        "abundance": "99,750 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 50,
+        "abundance": "0,250 %",
+        "note": "Naturlig radioaktiv isotop med svært lang halveringstid."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Vanadium",
+        "url": "https://periodic-table.rsc.org/element/23/vanadium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "trivia": "Små mengder krom gir rubiner den røde fargen.",
+    "universe": "Finnes i stjerner og i stein- og metallmateriale i solsystemet.",
+    "earth": "Den viktigste malmen er kromitt.",
+    "forms": "Rent krom er et hardt, blankt metall; i naturen finnes det hovedsakelig i mineraler.",
+    "isotopes": [
+      {
+        "mass": 52,
+        "abundance": "83,789 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 53,
+        "abundance": "9,501 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 50,
+        "abundance": "4,345 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Chromium",
+        "url": "https://periodic-table.rsc.org/element/24/chromium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "trivia": "Mangan brukes mye i stålproduksjon.",
+    "universe": "Finnes i kosmisk stoff og dannes gjennom stjerneprosesser og eksplosjoner.",
+    "earth": "Finnes i manganmineraler som pyrolusitt og i manganknoller på havbunnen.",
+    "forms": "Et hardt, sprøtt metall; i naturen vanligvis oksider og andre forbindelser.",
+    "isotopes": [
+      {
+        "mass": 55,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Manganese",
+        "url": "https://periodic-table.rsc.org/element/25/manganese"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "trivia": "Jern i hemoglobin gjør blodet i stand til å frakte oksygen.",
+    "universe": "Finnes i stjerner og meteoritter; stjerneeksplosjoner er viktige for jernets kosmiske historie.",
+    "earth": "En stor del av jordas kjerne er jern; i jordskorpa finnes det blant annet i hematitt og magnetitt.",
+    "forms": "Rent jern er et metall. Naturlig finnes det ofte som oksider, mens meteoritter kan inneholde jern-nikkelmetall.",
+    "isotopes": [
+      {
+        "mass": 56,
+        "abundance": "91,754 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 54,
+        "abundance": "5,845 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 57,
+        "abundance": "2,119 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Iron",
+        "url": "https://periodic-table.rsc.org/element/26/iron"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "trivia": "Koboltforbindelser har gitt glass og keramikk blå farge i århundrer.",
+    "universe": "Finnes i små mengder i kosmisk stoff og stammer fra stjerneprosesser.",
+    "earth": "Finnes ofte sammen med nikkel- og kobbermineraler.",
+    "forms": "Et hardt, sølvgrått metall; i naturen vanligvis bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 59,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Cobalt",
+        "url": "https://periodic-table.rsc.org/element/27/cobalt"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "trivia": "Nikkel er en viktig bestanddel i mange typer rustfritt stål.",
+    "universe": "Finnes i metalliske meteoritter og annet kosmisk stoff.",
+    "earth": "Finnes i malmer som pentlanditt og i jordas kjerne sammen med jern.",
+    "forms": "Et sølvfarget metall; finnes i mineraler og som jern-nikkellegering i meteoritter.",
+    "isotopes": [
+      {
+        "mass": 58,
+        "abundance": "68,0769 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 60,
+        "abundance": "26,2231 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 62,
+        "abundance": "3,6345 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Nickel",
+        "url": "https://periodic-table.rsc.org/element/28/nickel"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "trivia": "Kobber leder elektrisk strøm godt og brukes derfor i ledninger.",
+    "universe": "Et mindre vanlig grunnstoff i kosmisk stoff, dannet gjennom stjerneprosesser.",
+    "earth": "Finnes i mineraler som kobberkis og malakitt, og noen steder som rent metall.",
+    "forms": "Rødlig metall; naturlig både som metall og i forbindelser.",
+    "isotopes": [
+      {
+        "mass": 63,
+        "abundance": "69,15 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 65,
+        "abundance": "30,85 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Copper",
+        "url": "https://periodic-table.rsc.org/element/29/copper"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "trivia": "Et lag sink beskytter stål mot rust; dette kalles galvanisering.",
+    "universe": "Finnes i mindre mengder i kosmisk stoff og stammer fra stjerneprosesser.",
+    "earth": "Sinkblende, et sinksulfid, er en viktig malm.",
+    "forms": "Et blåhvitt metall; i naturen hovedsakelig bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 64,
+        "abundance": "49,17 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 66,
+        "abundance": "27,73 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 68,
+        "abundance": "18,45 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Zinc",
+        "url": "https://periodic-table.rsc.org/element/30/zinc"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "trivia": "Gallium smelter ved omtrent 30 °C, like over vanlig romtemperatur.",
+    "universe": "Finnes i små mengder i kosmisk stoff, dannet gjennom stjerneprosesser.",
+    "earth": "Finnes spredt i blant annet bauksitt og sinkmalm.",
+    "forms": "Et mykt metall som vanligvis er fast ved 20 °C; naturlig gallium er bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 69,
+        "abundance": "60,108 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 71,
+        "abundance": "39,892 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Gallium",
+        "url": "https://periodic-table.rsc.org/element/31/gallium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "trivia": "Germanium bidro til de første transistorene.",
+    "universe": "Et lite utbredt grunnstoff i kosmisk stoff med opphav i stjerneprosesser.",
+    "earth": "Finnes i små mengder i blant annet sinkmalmer og enkelte kullforekomster.",
+    "forms": "Et gråhvitt, sprøtt halvmetall; i naturen vanligvis kjemisk bundet.",
+    "isotopes": [
+      {
+        "mass": 74,
+        "abundance": "36,52 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 72,
+        "abundance": "27,45 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 70,
+        "abundance": "20,52 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Germanium",
+        "url": "https://periodic-table.rsc.org/element/32/germanium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "trivia": "Arsen inngår i galliumarsenid, en halvleder som brukes i elektronikk.",
+    "universe": "Finnes i små mengder i kosmisk stoff og har opphav i stjerneprosesser.",
+    "earth": "Finnes blant annet i arsenkis og kan frigjøres fra bergarter til grunnvann.",
+    "forms": "Vanlig ren form er grått, sprøtt arsen; naturlig forekommer det ofte i sulfider og andre mineraler.",
+    "isotopes": [
+      {
+        "mass": 75,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Arsenic",
+        "url": "https://periodic-table.rsc.org/element/33/arsenic"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "trivia": "Selen trengs i svært små mengder i kroppen, men for mye er giftig.",
+    "universe": "Finnes i små mengder i kosmisk stoff, dannet gjennom stjerneprosesser.",
+    "earth": "Finnes ofte sammen med sulfidmalmer og utvinnes gjerne som biprodukt fra kobberproduksjon.",
+    "forms": "Har flere faste former, blant annet grå og rød; naturlig vanligvis bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 80,
+        "abundance": "49,80 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 78,
+        "abundance": "23,69 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 76,
+        "abundance": "9,23 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Selenium",
+        "url": "https://periodic-table.rsc.org/element/34/selenium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "trivia": "Brom er det eneste ikke-metallet som er flytende ved vanlig romtemperatur.",
+    "universe": "Et lite utbredt grunnstoff i kosmisk stoff med opphav i stjerneprosesser.",
+    "earth": "Finnes særlig som bromid i havvann og konsentrerte saltlaker.",
+    "forms": "Rent brom er en rødbrun Br₂-væske; i naturen hovedsakelig bromidioner i salter.",
+    "isotopes": [
+      {
+        "mass": 79,
+        "abundance": "50,5–50,8 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 81,
+        "abundance": "49,2–49,5 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Bromine",
+        "url": "https://periodic-table.rsc.org/element/35/bromine"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "trivia": "Navnet krypton kommer fra det greske ordet for skjult.",
+    "universe": "Finnes i små mengder i kosmisk gass; kjernene er dannet gjennom stjerneprosesser.",
+    "earth": "Finnes i svært små mengder i atmosfæren og kan skilles ut fra flytende luft.",
+    "forms": "Fargeløs edelgass av enkeltatomer ved romtemperatur.",
+    "isotopes": [
+      {
+        "mass": 84,
+        "abundance": "56,987 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 86,
+        "abundance": "17,279 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 82,
+        "abundance": "11,593 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Krypton",
+        "url": "https://periodic-table.rsc.org/element/36/krypton"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "trivia": "Rubidium brukes i enkelte svært presise atomklokker.",
+    "universe": "Finnes i små mengder i kosmisk stoff; dannes blant annet ved at atomkjerner fanger nøytroner i stjerner.",
+    "earth": "Finnes spredt i mineraler, ofte sammen med kalium, blant annet i lepidolitt.",
+    "forms": "Et mykt, svært reaktivt metall; naturlig rubidium er kjemisk bundet.",
+    "isotopes": [
+      {
+        "mass": 85,
+        "abundance": "72,17 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 87,
+        "abundance": "27,83 %",
+        "note": "Naturlig radioaktiv isotop med svært lang halveringstid."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Rubidium",
+        "url": "https://periodic-table.rsc.org/element/37/rubidium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "trivia": "Strontiumsalter kan gi fyrverkeri en sterk rødfarge.",
+    "universe": "Finnes i små mengder i kosmisk stoff; nøytronfangst i stjerner bidrar til dannelsen.",
+    "earth": "Viktige mineraler er celestin og strontianitt.",
+    "forms": "Et sølvfarget metall i ren form; naturlig vanligvis sulfater og karbonater.",
+    "isotopes": [
+      {
+        "mass": 88,
+        "abundance": "82,58 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 86,
+        "abundance": "9,86 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 87,
+        "abundance": "7,00 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Strontium",
+        "url": "https://periodic-table.rsc.org/element/38/strontium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "trivia": "Yttrium er oppkalt etter Ytterby i Sverige, en gruve som ga navn til flere grunnstoffer.",
+    "universe": "Finnes i små mengder i kosmisk stoff, dannet gjennom stjerneprosesser.",
+    "earth": "Finnes sammen med sjeldne jordartsmetaller i blant annet monazitt og xenotim.",
+    "forms": "Et sølvfarget metall; i naturen bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 89,
+        "abundance": "100 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Yttrium",
+        "url": "https://periodic-table.rsc.org/element/39/yttrium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "trivia": "Zirkonkrystaller kan bevare spor av jordas historie gjennom milliarder av år.",
+    "universe": "Finnes i små mengder i kosmisk stoff; nøytronfangst i stjerner bidrar til dannelsen.",
+    "earth": "Finnes særlig i mineralet zirkon og også i baddeleyitt.",
+    "forms": "Et sølvgrått metall i ren form; i naturen vanligvis som silikat eller oksid.",
+    "isotopes": [
+      {
+        "mass": 90,
+        "abundance": "51,47 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 94,
+        "abundance": "17,36 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      },
+      {
+        "mass": 92,
+        "abundance": "17,16 %",
+        "note": "Stabil; andel av naturlig forekommende atomer på jorda."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Zirconium",
+        "url": "https://periodic-table.rsc.org/element/40/zirconium"
+      },
+      {
+        "title": "CIAAW – naturlig isotopfordeling (2024)",
+        "url": "https://ciaaw.org/isotopic-abundances.htm"
+      },
+      {
+        "title": "NASA – grunnstoffenes kosmiske opphav",
+        "url": "https://svs.gsfc.nasa.gov/13873/"
+      },
+      {
+        "title": "NASA – grunnstoffer i store stjerner",
+        "url": "https://imagine.gsfc.nasa.gov/educators/elements/imagine/05.html"
+      }
+    ]
+  }
+]

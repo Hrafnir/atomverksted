@@ -1,0 +1,767 @@
+[
+  {
+    "number": 84,
+    "trivia": "Polonium har navn etter Polen, Marie Curies hjemland.",
+    "universe": "Kortlivede radioaktive isotoper kan dannes i henfallskjeder fra tyngre grunnstoffer. Stoffet har ingen varig urbestand som har overlevd siden solsystemet ble dannet.",
+    "earth": "Finnes i svært små mengder i uranmalm, der det dannes gjennom radioaktivt henfall.",
+    "forms": "Et radioaktivt, sølvgrått fast stoff i ren form. Naturlig finnes det bare som spor i andre materialer.",
+    "isotopes": [
+      {
+        "mass": 210,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 209,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Polonium",
+        "url": "https://periodic-table.rsc.org/element/84/polonium"
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "trivia": "Navnet astat kommer fra et gresk ord for ustabil. Alle isotopene er radioaktive.",
+    "universe": "Kortlivede radioaktive isotoper kan dannes i henfallskjeder fra tyngre grunnstoffer. Stoffet har ingen varig urbestand som har overlevd siden solsystemet ble dannet.",
+    "earth": "Oppstår kortvarig i svært små mengder i naturlige henfallskjeder. Prøver til forskning fremstilles kunstig.",
+    "forms": "Studeres som enkeltatomer eller spor i kjemiske forbindelser. Stoffets utseende som en større prøve er ikke direkte observert.",
+    "isotopes": [
+      {
+        "mass": 210,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 211,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Astatine",
+        "url": "https://periodic-table.rsc.org/element/85/astatine"
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "trivia": "Radon er en usynlig og luktfri gass. Navnet viser til radium, som kan henfalle til radon.",
+    "universe": "Kortlivede radioaktive isotoper kan dannes i henfallskjeder fra tyngre grunnstoffer. Stoffet har ingen varig urbestand som har overlevd siden solsystemet ble dannet.",
+    "earth": "Dannes ved radioaktivt henfall i berggrunnen og kan sive ut i luft og bygninger.",
+    "forms": "En fargeløs edelgass av enkeltatomer. Alle isotopene er radioaktive.",
+    "isotopes": [
+      {
+        "mass": 222,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 220,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Radon",
+        "url": "https://periodic-table.rsc.org/element/86/radon"
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "trivia": "Francium ble oppdaget av Marguerite Perey og oppkalt etter Frankrike.",
+    "universe": "Kortlivede radioaktive isotoper kan dannes i henfallskjeder fra tyngre grunnstoffer. Stoffet har ingen varig urbestand som har overlevd siden solsystemet ble dannet.",
+    "earth": "Finnes bare i svært små, kortlivede spor i naturlige henfallskjeder og fremstilles til forskning.",
+    "forms": "Et alkalimetall som studeres i svært små mengder. En vanlig, synlig prøve kan ikke oppbevares fordi isotopene henfaller så raskt.",
+    "isotopes": [
+      {
+        "mass": 223,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Francium",
+        "url": "https://periodic-table.rsc.org/element/87/francium"
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "trivia": "Radium ble tidligere brukt i selvlysende maling. Strålingen gjorde denne bruken farlig.",
+    "universe": "Kortlivede radioaktive isotoper kan dannes i henfallskjeder fra tyngre grunnstoffer. Stoffet har ingen varig urbestand som har overlevd siden solsystemet ble dannet.",
+    "earth": "Finnes i små mengder i uranholdige mineraler som et henfallsprodukt.",
+    "forms": "Et radioaktivt metall; i naturen er det vanligvis kjemisk bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 226,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Radium",
+        "url": "https://periodic-table.rsc.org/element/88/radium"
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "trivia": "Navnet actinium kommer fra et gresk ord for stråle.",
+    "universe": "Kortlivede radioaktive isotoper kan dannes i henfallskjeder fra tyngre grunnstoffer. Stoffet har ingen varig urbestand som har overlevd siden solsystemet ble dannet.",
+    "earth": "Forekommer i spor i uranmalm. Materiale til forskning fremstilles også kunstig.",
+    "forms": "Et radioaktivt metall. Små prøver håndteres også som kjemiske forbindelser og løsninger.",
+    "isotopes": [
+      {
+        "mass": 227,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Actinium",
+        "url": "https://periodic-table.rsc.org/element/89/actinium"
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "trivia": "Thorium har navn etter den norrøne guden Tor.",
+    "universe": "Et sjeldent, tungt grunnstoff med kosmisk opphav i nøytronrike stjernehendelser. Langlivede isotoper kunne overleve fram til dannelsen av solsystemet.",
+    "earth": "Finnes i blant annet monazitt, thoritt og thorianitt.",
+    "forms": "Rent thorium er et sølvfarget metall; naturlig er det oftest bundet i oksider, silikater og fosfater.",
+    "isotopes": [
+      {
+        "mass": 232,
+        "abundance": "Nesten alt naturlig thorium",
+        "note": "Radioaktiv, med så lang halveringstid at mye har overlevd siden jorda ble dannet."
+      },
+      {
+        "mass": 230,
+        "abundance": "Små naturlige spor",
+        "note": "Radioaktiv; dannes i urans henfallskjede."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Thorium",
+        "url": "https://periodic-table.rsc.org/element/90/thorium"
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "trivia": "Navnet protactinium viser til at stoffet kan henfalle til actinium.",
+    "universe": "Kortlivede radioaktive isotoper kan dannes i henfallskjeder fra tyngre grunnstoffer. Stoffet har ingen varig urbestand som har overlevd siden solsystemet ble dannet.",
+    "earth": "Finnes i svært små mengder i uranmalm og kan også forekomme i brukt reaktorbrensel.",
+    "forms": "Et radioaktivt metall når det er rent; i naturen som spor bundet i mineraler.",
+    "isotopes": [
+      {
+        "mass": 231,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Protactinium",
+        "url": "https://periodic-table.rsc.org/element/91/protactinium"
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "trivia": "Uran har navn etter planeten Uranus. Det finnes naturlig i bergarter.",
+    "universe": "Et sjeldent, tungt grunnstoff med kosmisk opphav i nøytronrike stjernehendelser. Langlivede isotoper kunne overleve fram til dannelsen av solsystemet.",
+    "earth": "Finnes i mineraler som uraninitt og karnotitt, og i små mengder i mange bergarter.",
+    "forms": "Rent uran er et tett metall. I naturen vanligvis bundet til oksygen og andre grunnstoffer i mineraler.",
+    "isotopes": [
+      {
+        "mass": 238,
+        "abundance": "ca. 99,27 %",
+        "note": "Radioaktiv. Omtrentlig andel av naturlig uran; andelene kan variere."
+      },
+      {
+        "mass": 235,
+        "abundance": "ca. 0,72 %",
+        "note": "Radioaktiv. Omtrentlig andel av naturlig uran; andelene kan variere."
+      },
+      {
+        "mass": 234,
+        "abundance": "ca. 0,005 %",
+        "note": "Radioaktiv. Omtrentlig andel av naturlig uran; andelene kan variere."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Uranium",
+        "url": "https://periodic-table.rsc.org/element/92/uranium"
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "trivia": "Etter uran kommer neptunium, oppkalt etter planeten Neptun.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Finnes i naturlige spor i uranmalm, men materialet vi bruker kommer hovedsakelig fra reaktorer.",
+    "forms": "Et radioaktivt metall som også håndteres som oksider og andre forbindelser.",
+    "isotopes": [
+      {
+        "mass": 237,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Neptunium",
+        "url": "https://periodic-table.rsc.org/element/93/neptunium"
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "trivia": "Plutonium har navn etter Pluto, som ble regnet som en planet da navnet ble valgt.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Fremstilles hovedsakelig i reaktorer. Det finnes også ytterst små naturlige spor.",
+    "forms": "Et radioaktivt metall med flere krystallformer; også viktig som oksid og andre forbindelser.",
+    "isotopes": [
+      {
+        "mass": 239,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 238,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 240,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Plutonium",
+        "url": "https://periodic-table.rsc.org/element/94/plutonium"
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "trivia": "Små mengder americium-241 finnes i noen typer røykvarslere.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Kjente, praktisk tilgjengelige mengder er menneskeskapte, særlig fra reaktorer og radioaktivt henfall av fremstilt materiale.",
+    "forms": "Et radioaktivt metall. I røykvarslere brukes en svært liten mengde av en americiumforbindelse.",
+    "isotopes": [
+      {
+        "mass": 241,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 243,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Americium",
+        "url": "https://periodic-table.rsc.org/element/95/americium"
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "trivia": "Curium er oppkalt etter Marie og Pierre Curie.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Fremstilles i svært små mengder i reaktorer.",
+    "forms": "Et radioaktivt, sølvfarget metall som reagerer med luft. Studeres også i forbindelser.",
+    "isotopes": [
+      {
+        "mass": 243,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 248,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Curium",
+        "url": "https://periodic-table.rsc.org/element/96/curium"
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "trivia": "Berkelium har navn etter Berkeley i California, der det først ble fremstilt.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Fremstilles i svært små mengder i spesialiserte reaktorer.",
+    "forms": "Et radioaktivt metall, men ofte håndtert som små mengder forbindelser i løsninger.",
+    "isotopes": [
+      {
+        "mass": 247,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 249,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Berkelium",
+        "url": "https://periodic-table.rsc.org/element/97/berkelium"
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "trivia": "Californium har navn etter California. Noen isotoper er sterke nøytronkilder.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Fremstilles i små mengder i reaktorer til forskning og enkelte tekniske anvendelser.",
+    "forms": "Et radioaktivt metall; små kilder kan inneholde stoffet i en kjemisk forbindelse.",
+    "isotopes": [
+      {
+        "mass": 249,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 252,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Californium",
+        "url": "https://periodic-table.rsc.org/element/98/californium"
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "trivia": "Einsteinium er oppkalt etter Albert Einstein.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Fremstilles i svært små mengder i spesialiserte reaktorer.",
+    "forms": "Et radioaktivt metall som bare er undersøkt i svært små prøver.",
+    "isotopes": [
+      {
+        "mass": 252,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Einsteinium",
+        "url": "https://periodic-table.rsc.org/element/99/einsteinium"
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "trivia": "Fermium er oppkalt etter fysikeren Enrico Fermi.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Fremstilles i ørsmå mengder til forskning; ingen vanlig naturlig forekomst.",
+    "forms": "Kjemien undersøkes med svært små mengder, ofte i løsning. Ikke et stoff man finner som vanlige metallstykker.",
+    "isotopes": [
+      {
+        "mass": 257,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Fermium",
+        "url": "https://periodic-table.rsc.org/element/100/fermium"
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "trivia": "Mendelevium hedrer Dmitrij Mendelejev, en av pionerene bak periodesystemet.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 258,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      },
+      {
+        "mass": 260,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Mendelevium",
+        "url": "https://periodic-table.rsc.org/element/101/mendelevium"
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "trivia": "Nobelium er oppkalt etter Alfred Nobel.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 259,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Nobelium",
+        "url": "https://periodic-table.rsc.org/element/102/nobelium"
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "trivia": "Lawrencium har navn etter Ernest Lawrence, som utviklet syklotronen.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 262,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Lawrencium",
+        "url": "https://periodic-table.rsc.org/element/103/lawrencium"
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "trivia": "Rutherfordium hedrer Ernest Rutherford, kjent for arbeidet med atomkjernen.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 265,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Rutherfordium",
+        "url": "https://periodic-table.rsc.org/element/104/rutherfordium"
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "trivia": "Dubnium er oppkalt etter forskningsbyen Dubna i Russland.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 268,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Dubnium",
+        "url": "https://periodic-table.rsc.org/element/105/dubnium"
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "trivia": "Seaborgium er oppkalt etter Glenn Seaborg, som bidro til oppdagelsen av flere tunge grunnstoffer.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 271,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Seaborgium",
+        "url": "https://periodic-table.rsc.org/element/106/seaborgium"
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "trivia": "Bohrium er oppkalt etter Niels Bohr. Du møter navnet hans også i atommodellen i verkstedet.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 272,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Bohrium",
+        "url": "https://periodic-table.rsc.org/element/107/bohrium"
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "trivia": "Hassium har navn etter den tyske delstaten Hessen.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 270,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Hassium",
+        "url": "https://periodic-table.rsc.org/element/108/hassium"
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "trivia": "Meitnerium hedrer fysikeren Lise Meitner.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 276,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Meitnerium",
+        "url": "https://periodic-table.rsc.org/element/109/meitnerium"
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "trivia": "Darmstadtium har navn etter Darmstadt, byen der grunnstoffet først ble fremstilt.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 281,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Darmstadtium",
+        "url": "https://periodic-table.rsc.org/element/110/darmstadtium"
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "trivia": "Røntgenium hedrer Wilhelm Conrad Röntgen, som oppdaget røntgenstrålene.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 280,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Roentgenium",
+        "url": "https://periodic-table.rsc.org/element/111/roentgenium"
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "trivia": "Copernicium er oppkalt etter astronomen Nikolaus Kopernikus.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 285,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Copernicium",
+        "url": "https://periodic-table.rsc.org/element/112/copernicium"
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "trivia": "Nihonium har navn etter Nihon, et japansk navn på Japan.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 286,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Nihonium",
+        "url": "https://periodic-table.rsc.org/element/113/nihonium"
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "trivia": "Flerovium hedrer Flerov-laboratoriet, oppkalt etter fysikeren Georgij Flerov.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 289,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Flerovium",
+        "url": "https://periodic-table.rsc.org/element/114/flerovium"
+      }
+    ]
+  },
+  {
+    "number": 115,
+    "trivia": "Moscovium har navn etter Moskva-regionen, der Dubna ligger.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 289,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Moscovium",
+        "url": "https://periodic-table.rsc.org/element/115/moscovium"
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "trivia": "Livermorium har navn etter Lawrence Livermore National Laboratory.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 293,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Livermorium",
+        "url": "https://periodic-table.rsc.org/element/116/livermorium"
+      }
+    ]
+  },
+  {
+    "number": 117,
+    "trivia": "Tenness har navn etter den amerikanske delstaten Tennessee.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 294,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Tennessine",
+        "url": "https://periodic-table.rsc.org/element/117/tennessine"
+      }
+    ]
+  },
+  {
+    "number": 118,
+    "trivia": "Oganesson er oppkalt etter fysikeren Jurij Oganesjan. Det har 118 protoner i kjernen.",
+    "universe": "Ingen kjent vanlig, varig forekomst i universet. Isotopene er radioaktive; her beskriver vi stoffet slik det er undersøkt i laboratorier.",
+    "earth": "Ingen kjent naturlig forekomst. Fremstilles atom for atom i partikkelakseleratorer og identifiseres gjennom målinger av radioaktivt henfall.",
+    "forms": "Bare svært små mengder, ofte enkeltatomer, er undersøkt. Det finnes ingen vanlig stoffprøve; egenskaper som farge og fysisk form i større mengder er derfor ikke direkte målt.",
+    "isotopes": [
+      {
+        "mass": 294,
+        "abundance": "Ingen fast naturlig prosentandel",
+        "note": "Radioaktiv isotop; et utvalgt eksempel, ikke en vanlig stabil naturisotop."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Society of Chemistry – Oganesson",
+        "url": "https://periodic-table.rsc.org/element/118/oganesson"
+      }
+    ]
+  }
+]
