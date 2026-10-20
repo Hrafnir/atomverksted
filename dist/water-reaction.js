@@ -10,7 +10,7 @@ function openWaterReaction(metal){stopWaterReaction();waterReaction.metal=metal;
 function reactionCircle(x,y,symbol,color,r=25){return `<g><circle cx="${x}" cy="${y}" r="${r}" fill="${color}" stroke="#668779" stroke-width="2"/><text x="${x}" y="${y+6}" text-anchor="middle" font-size="19" fill="#183c3a">${symbol}</text></g>`;}
 function waterReactionDrawing(metal,step){
  const atom=reactionCircle;let parts='';
- const water=(x,y,final)=>`<g><line x1="${x}" y1="${y}" x2="${x-43}" y2="${y-36}" stroke="#537a6d" stroke-width="4"/>${!final?`<line x1="${x}" y1="${y}" x2="${x+43}" y2="${y-36}" stroke="#537a6d" stroke-width="4"/>`:''}${atom(x,y,'O','#f3b3a4')}${atom(x-43,y-36,'H','#f8faf3',19)}${!final?atom(x+43,y-36,'H','#f8faf3',19):`<path d="M${x-70},${y-65}v100h${110}v-100" fill="none" stroke="#347aa3" stroke-width="2"/><text x="${x+30}" y="${y-40}" font-size="25">−</text>`}</g>`;
+ const water=(x,y,final)=>`<g><line x1="${x}" y1="${y}" x2="${x-43}" y2="${y-36}" stroke="#537a6d" stroke-width="4"/>${!final?`<line x1="${x}" y1="${y}" x2="${x+43}" y2="${y-36}" stroke="#537a6d" stroke-width="4"/>`:''}${atom(x,y,'O','#f3b3a4')}${atom(x-43,y-36,'H','#f8faf3',19)}${!final?atom(x+43,y-36,'H','#f8faf3',19):`<path d="M${x-70},${y-65}v100h${110}v-100" fill="none" stroke="#347aa3" stroke-width="2"/><text x="${x+50}" y="${y-45}" font-size="25">−</text>`}</g>`;
  parts+=`<rect x="16" y="95" width="748" height="240" rx="22" fill="#e7f3f6"/><text x="38" y="320" fill="#4e767e" font-size="14">Vann rundt partiklene (de fleste vannmolekylene er utelatt)</text>`;
  if(step<2){
  parts+=atom(130,145,metal+(step?'⁺':''),'#eed1a8',32)+atom(130,245,metal+(step?'⁺':''),'#eed1a8',32)+water(420,150,false)+water(620,245,false);
