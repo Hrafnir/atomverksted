@@ -1,8 +1,8 @@
 /* Shareable activity routes. A recipe link starts an exercise, not a saved answer. */
 let classroomReady=false,applyingClassroomURL=false,activeClassroomTab='build',lastClassroomSearch=location.search;
-const classroomTabs={build:['01','Atomer og grunnstoffer'],table:['02','Periodesystemet'],molecules:['03','Molekylverksted'],salts:['04','Saltverket']};
+const classroomTabs={build:['01','Atomer og grunnstoffer'],table:['02','Periodesystemet'],molecules:['03','Molekylverksted'],salts:['04','Saltverket'],reactions:['05','Metall i vann']};
 function updateClassroomTab(name){
- activeClassroomTab=name;
+ activeClassroomTab=name;if(name!=='reactions'&&typeof stopWaterReaction==='function')stopWaterReaction();
  const [number,title]=classroomTabs[name]||classroomTabs.build;
  document.querySelector('.lesson').innerHTML=`${number} <span>${title}</span>`;
  document.body.dataset.activity=name;
@@ -11,9 +11,10 @@ function updateClassroomTab(name){
 function syncClassroomURL(){
  if(!classroomReady||applyingClassroomURL)return;
  const url=new URL(location.href);
- ['tab','z','p','n','e','cid','salt','challenge'].forEach(k=>url.searchParams.delete(k));
+ ['tab','z','p','n','e','cid','salt','challenge','metal'].forEach(k=>url.searchParams.delete(k));
  url.searchParams.set('tab',activeClassroomTab);
  if(activeClassroomTab==='build'){for(const [key,value] of Object.entries({p,n,e,challenge}))url.searchParams.set(key,value);}
+ if(activeClassroomTab==='reactions')url.searchParams.set('metal',waterReaction.metal);
  if(activeClassroomTab==='table')url.searchParams.set('z',selected);
  if(activeClassroomTab==='molecules'&&molState.recipe!==null)url.searchParams.set('cid',moleculeBank[molState.recipe].cid);
  if(activeClassroomTab==='salts'&&saltState.recipe!==null)url.searchParams.set('salt',saltBank[saltState.recipe].id);
@@ -28,6 +29,7 @@ function applyClassroomURL(){
  try{
  const params=new URLSearchParams(location.search),name=Object.hasOwn(classroomTabs,params.get('tab'))?params.get('tab'):'build';
  tab(name);
+ if(name==='reactions'){waterReaction.metal=params.get('metal')==='Li'?'Li':'Na';waterReaction.step=0;renderWaterReaction();}
  if(name==='table')select(readClassroomInteger(params,'z',1,118,1));
  if(name==='build'){
   p=readClassroomInteger(params,'p',0,118,readClassroomInteger(params,'z',0,118,0));
@@ -72,7 +74,7 @@ document.querySelector('#periodic').addEventListener('keydown',ev=>{
 });
 document.querySelector('#shareActivity').onclick=async()=>{
  syncClassroomURL();const status=document.querySelector('#shareStatus');
- const note=activeClassroomTab==='molecules'||activeClassroomTab==='salts'?' Lenken åpner fanen og eventuell valgt oppgave, ikke de frie byggeendringene.':' Lenken åpner denne aktiviteten med valgt atom eller grunnstoff.';
+ const note=activeClassroomTab==='reactions'?' Lenken åpner reaksjonsmodellen med valgt metall fra første steg.':activeClassroomTab==='molecules'||activeClassroomTab==='salts'?' Lenken åpner fanen og eventuell valgt oppgave, ikke de frie byggeendringene.':' Lenken åpner denne aktiviteten med valgt atom eller grunnstoff.';
  try{await navigator.clipboard.writeText(location.href);status.textContent='Lenken er kopiert.'+note;}
  catch{status.textContent='Kopier lenken fra adressefeltet.'+note;}
 };

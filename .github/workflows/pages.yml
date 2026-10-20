@@ -21,6 +21,7 @@ jobs:
       - run: node verify-compound-reference.cjs
       - run: node verify-facts.cjs
       - run: node verify-learning.cjs
+      - run: node verify-hydroxide.cjs
   deploy:
     needs: test
     runs-on: ubuntu-latest

@@ -873,3 +873,38 @@ const saltFactsExtra = {
     ]
   }
 };
+
+Object.assign(saltFactsExtra,{
+  "naoh": {
+    "occurrence": "Kan dannes når natrium reagerer med vann. I løsningen finnes Na⁺-ioner og OH⁻-ioner omgitt av vannmolekyler.",
+    "uses": "Brukes blant annet til såpeproduksjon og i kjemisk industri. Løsningen kalles natronlut.",
+    "appearance": "Rent, fast stoff er hvitt. En ren vannløsning er fargeløs; eventuell indikator gir farge.",
+    "sources": [
+      {
+        "title": "OpenStax – baser og ioneforbindelser",
+        "url": "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions"
+      },
+      {
+        "title": "Natriumhydroksid – PubChem",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/14798"
+      }
+    ],
+    "explanation": "Hydroksidionet OH⁻ er ikke det samme som oksidionet O²⁻. Hydrogenet er en del av det sammensatte ionet."
+  },
+  "lioh": {
+    "occurrence": "Kan dannes når litium reagerer med vann. I løsningen finnes Li⁺-ioner og OH⁻-ioner omgitt av vannmolekyler.",
+    "uses": "Brukes blant annet i produksjon av enkelte batterimaterialer og til binding av karbondioksid.",
+    "appearance": "Rent, fast stoff er hvitt. En ren vannløsning er fargeløs; eventuell indikator gir farge.",
+    "sources": [
+      {
+        "title": "OpenStax – baser og ioneforbindelser",
+        "url": "https://openstax.org/books/chemistry-2e/pages/4-2-classifying-chemical-reactions"
+      },
+      {
+        "title": "Litiumhydroksid – PubChem",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/3939"
+      }
+    ],
+    "explanation": "Hydroksidionet OH⁻ er ikke det samme som oksidionet O²⁻. Hydrogenet er en del av det sammensatte ionet."
+  }
+});

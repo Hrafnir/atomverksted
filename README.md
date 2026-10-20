@@ -26,6 +26,7 @@ node verify-layout.cjs
 node verify-compound-reference.cjs
 node verify-facts.cjs
 node verify-learning.cjs
+node verify-hydroxide.cjs
 ```
 
 ## Data, bilder og modellbegrensninger
@@ -47,3 +48,14 @@ Eksempler (fungerer også på Sites med samme parametere):
 - Jern(III)oksid: `?tab=salts&salt=fe2o3`
 
 Vanlige ioner har egne skallfordelinger; andre ladningstilstander merkes som skjematiske. Isotoplisten er et utvalg og brukes ikke til å avvise ukjente isotoper. Saltillustrasjonene bevarer ioneforholdet, men er ikke modeller av de faktiske krystallstrukturene.
+
+## Natrium og litium i vann
+
+Fanen **Metall i vann** forklarer reaksjonen trinnvis med partikkelillustrasjoner, elektronregnskap og sammenligning av Na/Li. Dette er en pedagogisk modell, ikke en simulering av reaksjonsmekanisme, temperatur, pH eller hastighet.
+
+- Natrium i vann: `?tab=reactions&metal=Na`
+- Litium i vann: `?tab=reactions&metal=Li`
+- Bygg NaOH fra atomer: `?tab=salts&salt=naoh`
+- Bygg LiOH fra atomer: `?tab=salts&salt=lioh`
+
+Hydroksidverkstedet lar eleven legge til metall, O og H, pare O/H-elektronene og overføre ett elektron til O–H-delen. Denne konstruksjonen viser elektronbokføring for forbindelsen og må ikke forveksles med reaksjonsforløpet i vann. NaOH og LiOH finnes også i den søkbare banken over 71 ioneforbindelser og kan bygges med ferdige ioner.

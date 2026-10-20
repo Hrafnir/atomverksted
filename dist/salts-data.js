@@ -9,3 +9,57 @@ Object.assign(saltBank.find(s=>s.id==='feo'),{
  aliases:['Fe(II)O','jernoksid','wüstitt','wustitt'],
  teachingNote:'FeO er jern(II)oksid, ikke vanlig rust. Romertallet II beskriver jernets oksidasjonstall (+2); det er ikke et ekstra atom i formelen. Vanlig rust inneholder vannholdige jern(III)oksider og oksidhydroksider.'
 });
+
+// Hydroxides built from ions or from individual atoms.
+saltBank.push(...[
+  {
+    "id": "naoh",
+    "name": "Natriumhydroksid (kaustisk soda)",
+    "formula": "NaOH",
+    "cation": {
+      "symbol": "Na",
+      "name": "natriumion",
+      "charge": 1
+    },
+    "anion": {
+      "symbol": "OH",
+      "name": "hydroksidion",
+      "charge": -1
+    },
+    "ratio": [
+      1,
+      1
+    ],
+    "mode": "ions",
+    "buildKind": "hydroxide",
+    "cid": 14798,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14798",
+    "description": "En ioneforbindelse av Na⁺ og OH⁻ i forholdet 1:1. O og H deler et elektronpar inne i hydroksidionet. I vann er ionene løst og løsningen er basisk.",
+    "teachingNote": "NaOH og LiOH er hydroksider og baser. Her finnes de i saltverkets bank over ioneforbindelser. Formelen beskriver et ioneforhold, ikke et avgrenset molekyl."
+  },
+  {
+    "id": "lioh",
+    "name": "Litiumhydroksid",
+    "formula": "LiOH",
+    "cation": {
+      "symbol": "Li",
+      "name": "litiumion",
+      "charge": 1
+    },
+    "anion": {
+      "symbol": "OH",
+      "name": "hydroksidion",
+      "charge": -1
+    },
+    "ratio": [
+      1,
+      1
+    ],
+    "mode": "ions",
+    "buildKind": "hydroxide",
+    "cid": 3939,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/3939",
+    "description": "En ioneforbindelse av Li⁺ og OH⁻ i forholdet 1:1. O og H deler et elektronpar inne i hydroksidionet. I vann er ionene løst og løsningen er basisk.",
+    "teachingNote": "NaOH og LiOH er hydroksider og baser. Her finnes de i saltverkets bank over ioneforbindelser. Formelen beskriver et ioneforhold, ikke et avgrenset molekyl."
+  }
+]);
