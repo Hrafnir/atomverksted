@@ -25,6 +25,7 @@ node verify-chemistry.cjs
 node verify-layout.cjs
 node verify-compound-reference.cjs
 node verify-facts.cjs
+node verify-learning.cjs
 ```
 
 ## Data, bilder og modellbegrensninger
@@ -34,3 +35,15 @@ Stoffkortene oppgir faktakilder. Fotografier har individuelle kilde-, fotograf- 
 Modellene er pedagogiske forenklinger. Lewis-verkstedet beskriver ikke all molekylgeometri, stereokjemi eller kjemisk stabilitet. Saltverket viser elektronregnskap og ioneforhold. Fe₂O₃ er en forenklet rustmodell; virkelig rust er en blanding av vannholdige jernforbindelser.
 
 `scripts/` inneholder hjelpeverktøy for datainnhenting. Vanlig bruk og publisering krever ikke at disse kjøres. Enkelte hjelpeverktøy bruker lokale mellomlagre i `research/` som ikke inngår i repositoriet.
+
+## Del aktiviteter med klassen
+
+Knappen **Del aktivitet** kopierer en lenke til valgt fane. Atomlenker bevarer protoner, nøytroner, elektroner og utfordring; periodesystemlenker bevarer valgt grunnstoff. Molekyl- og saltlenker åpner valgt oppgave fra starten. Frie byggeendringer lagres ikke i lenken.
+
+Eksempler (fungerer også på Sites med samme parametere):
+- Karbon-14: `?tab=build&p=6&n=8&e=6&challenge=1`
+- Karbon i periodesystemet: `?tab=table&z=6`
+- Vannoppgave: `?tab=molecules&cid=962`
+- Jern(III)oksid: `?tab=salts&salt=fe2o3`
+
+Vanlige ioner har egne skallfordelinger; andre ladningstilstander merkes som skjematiske. Isotoplisten er et utvalg og brukes ikke til å avvise ukjente isotoper. Saltillustrasjonene bevarer ioneforholdet, men er ikke modeller av de faktiske krystallstrukturene.
