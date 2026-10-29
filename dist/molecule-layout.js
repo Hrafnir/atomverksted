@@ -12,3 +12,11 @@ function molHydrideLayout(m){const heavy=m.atoms.map((a,i)=>a.element!=='H'?i:-1
 function molFindSnap(atoms,bonds,moving,point){if(atoms[moving].element!=='H'||bonds.some(b=>b[0]===moving||b[1]===moving))return null;let best=null;atoms.forEach((a,i)=>{if(i===moving||!chemCanBond(atoms,bonds,moving,i))return;for(const slot of molFreeSlots(atoms,bonds,i)){const port=molPoint(a,slot,49),destination=molPoint(a,slot),distance=Math.min(Math.hypot(point.x-port.x,point.y-port.y),Math.hypot(point.x-destination.x,point.y-destination.y));if(distance<=70&&(!best||distance<best.distance))best={atom:i,slot,distance,...destination}}});return best}
 
 function molPlaceHydrogen(atoms,bonds,i,point){const previous={x:atoms[i].x,y:atoms[i].y};Object.assign(atoms[i],point);atoms.forEach((a,j)=>{if(j===i||bonds.some(b=>b[0]===j||b[1]===j)||Math.hypot(a.x-point.x,a.y-point.y)>=105)return;const clear=p=>!atoms.some((other,k)=>k!==j&&Math.hypot(other.x-p.x,other.y-p.y)<110);if(clear(previous)){Object.assign(a,previous);return}for(let k=0;k<1000;k++){const p={x:100+(k%5)*150,y:100+Math.floor(k/5)*150};if(clear(p)){Object.assign(a,p);break}}})}
+
+// Repositioning changes only coordinates; bond order and occupied electron slots stay intact.
+function molMoveTargets(bonds,index,mode='atom'){return mode==='molecule'?molComponent(bonds,index):[index]}
+function molMoveAtoms(atoms,origin,indices,dx,dy){
+ const shiftX=Math.max(dx,80-Math.min(...indices.map(i=>origin[i].x)));
+ const shiftY=Math.max(dy,80-Math.min(...indices.map(i=>origin[i].y)));
+ indices.forEach(i=>{atoms[i].x=origin[i].x+shiftX;atoms[i].y=origin[i].y+shiftY});
+}
