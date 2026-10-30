@@ -1,6 +1,6 @@
 const assert=require('node:assert/strict'),K=require('./dist/kit3d-core.js');
 const near=(a,b)=>assert(Math.abs(a-b)<1e-6,`${a} != ${b}`);
-const expected={methane:'CH4',water:'H2O',ethane:'C2H6',ethene:'C2H4',ethyne:'C2H2',benzene:'C6H6',graphene:'C30',graphite:'C90',diamond:'C64',fullerene:'C60'};
+const expected={glucose:'C6H12O6',methane:'CH4',water:'H2O',ethane:'C2H6',ethene:'C2H4',ethyne:'C2H2',benzene:'C6H6',graphene:'C30',graphite:'C90',diamond:'C64',fullerene:'C60'};
 for(const [id,p]of Object.entries(K.presets)){const m=p.make();assert.equal(K.formula(m),expected[id]);const copy=K.validate(JSON.parse(JSON.stringify(m)));assert.equal(K.formula(copy),expected[id]);assert.deepEqual(copy.bonds,m.bonds);for(const a of m.atoms)for(const d of a.dirs)near(K.norm(d),1);if(m.kind==='molecule')for(let i=0;i<m.atoms.length;i++)assert.equal(K.used(m,i),K.types[m.atoms[i].type].max,`${id} atom ${i} incomplete`);}
 const methane=K.presets.methane.make();for(let i=1;i<5;i++)for(let j=i+1;j<5;j++)near(K.dot(K.unit(methane.atoms[i].pos),K.unit(methane.atoms[j].pos)),-1/3);
 const water=K.presets.water.make();near(Math.acos(K.dot(K.unit(water.atoms[1].pos),K.unit(water.atoms[2].pos)))*180/Math.PI,104.5);
@@ -13,4 +13,6 @@ function cycles(m,n){const found=new Set();for(let start=0;start<m.atoms.length;
 const built=K.start('C');assert.equal(K.attach(built,0,0,'C'),null);assert.equal(K.saturate(built),null);assert.equal(K.formula(built),'C2H6');const original=JSON.stringify(built);assert(K.attach(built,0,0,'H'));assert.equal(JSON.stringify(built),original);assert(K.canLink(built,0,0));assert(K.canLink(built,0,1));
 const open=K.start('Cp');open.atoms.push(K.atom('Od',[2,0,0]));assert.equal(K.canLink(open,0,1,2),null);open.bonds.push([0,1,2]);K.remove(open,0);assert.equal(open.atoms.length,1);assert.equal(open.bonds.length,0);
 assert.throws(()=>K.validate({atoms:[{type:'C',pos:[NaN,0,0]}],bonds:[]}));assert.throws(()=>K.validate({atoms:built.atoms,bonds:[[0,999,1]]}));assert.throws(()=>K.validate({atoms:built.atoms,bonds:[[0,1,1],[1,0,1]]}));assert.throws(()=>K.validate({atoms:built.atoms,bonds:[[0,1,8]]}));assert(K.saturate(graphite));
-console.log('PASS: 10 presets; all formulas and valences; 109.47° tetrahedra, 104.5° water, planar molecules, layered graphite, diamond connectivity, C60 faces; building, collision/valence rejection, deletion and file validation.');
+console.log('PASS: 11 presets; all formulas and valences; 109.47° tetrahedra, 104.5° water, planar molecules, layered graphite, diamond connectivity, C60 faces; building, collision/valence rejection, deletion and file validation.');
+
+const glucose=K.presets.glucose.make();assert.equal(glucose.atoms.length,24);assert.equal(glucose.bonds.length,24);assert(glucose.atoms.some(a=>Math.abs(a.pos[2])>.2));assert.equal(glucose.atoms.filter(a=>K.types[a.type].symbol==='O').length,6);assert.equal(new Set(glucose.atoms.map(a=>a.pos.join(','))).size,24);

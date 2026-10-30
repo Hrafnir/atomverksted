@@ -71,7 +71,7 @@ setupChemistry();
 cxQ('#molTo3d').onclick=async()=>{
  const button=cxQ('#molTo3d'),copy={atoms:molState.atoms.map(a=>({...a})),bonds:molState.bonds.map(b=>b.slice(0,3))};
  button.disabled=true;button.textContent='Åpner 3D …';
- try{const kit=await import('./kit3d.js?v=16');kit.openFromWorkshop(copy);}
+ try{const kit=await import('./kit3d.js?v=17');kit.openFromWorkshop(copy);}
  catch(error){molMessage('Kunne ikke åpne 3D: '+error.message+'. Byggverket ditt er fortsatt her.');}
  finally{button.disabled=!molState.atoms.length;button.textContent='Åpne i 3D ↗';}
 };
