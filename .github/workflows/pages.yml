@@ -22,6 +22,7 @@ jobs:
       - run: node verify-facts.cjs
       - run: node verify-learning.cjs
       - run: node verify-hydroxide.cjs
+      - run: node verify-kit3d.cjs
   deploy:
     needs: test
     runs-on: ubuntu-latest

@@ -1,6 +1,6 @@
 /* Shareable activity routes. A recipe link starts an exercise, not a saved answer. */
 let classroomReady=false,applyingClassroomURL=false,activeClassroomTab='build',lastClassroomSearch=location.search;
-const classroomTabs={build:['01','Atomer og grunnstoffer'],table:['02','Periodesystemet'],molecules:['03','Molekylverksted'],salts:['04','Saltverket'],reactions:['05','Metall i vann']};
+const classroomTabs={build:['01','Atomer og grunnstoffer'],table:['02','Periodesystemet'],molecules:['03','Molekylverksted'],salts:['04','Saltverket'],reactions:['05','Metall i vann'],kit3d:['06','3D-molekylbyggesett']};
 function updateClassroomTab(name){
  activeClassroomTab=name;if(name!=='reactions'&&typeof stopWaterReaction==='function')stopWaterReaction();
  const [number,title]=classroomTabs[name]||classroomTabs.build;
@@ -74,7 +74,7 @@ document.querySelector('#periodic').addEventListener('keydown',ev=>{
 });
 document.querySelector('#shareActivity').onclick=async()=>{
  syncClassroomURL();const status=document.querySelector('#shareStatus');
- const note=activeClassroomTab==='reactions'?' Lenken åpner reaksjonsmodellen med valgt metall fra første steg.':activeClassroomTab==='molecules'||activeClassroomTab==='salts'?' Lenken åpner fanen og eventuell valgt oppgave, ikke de frie byggeendringene.':' Lenken åpner denne aktiviteten med valgt atom eller grunnstoff.';
+ const note=activeClassroomTab==='kit3d'?' Lenken åpner 3D-byggesettet. Del en lagret modellfil for å dele akkurat det dere har bygget.':activeClassroomTab==='reactions'?' Lenken åpner reaksjonsmodellen med valgt metall fra første steg.':activeClassroomTab==='molecules'||activeClassroomTab==='salts'?' Lenken åpner fanen og eventuell valgt oppgave, ikke de frie byggeendringene.':' Lenken åpner denne aktiviteten med valgt atom eller grunnstoff.';
  try{await navigator.clipboard.writeText(location.href);status.textContent='Lenken er kopiert.'+note;}
  catch{status.textContent='Kopier lenken fra adressefeltet.'+note;}
 };
