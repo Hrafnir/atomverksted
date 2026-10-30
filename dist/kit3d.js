@@ -57,3 +57,11 @@ host.querySelectorAll('[data-kit-preset]').forEach(b=>b.onclick=()=>{remember();
 q('kitSave').onclick=()=>{const blob=new Blob([JSON.stringify({version:1,model:m},null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='mitt-molekylbyggesett.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
 q('kitOpen').onchange=async ev=>{const file=ev.target.files[0];if(!file)return;try{if(file.size>250000)throw Error('Filen er for stor.');const data=JSON.parse(await file.text()),loaded=K.validate(data.model);change(()=>{m=loaded;selected=null;bondSelected=null;connecting=false});fit();message('Din lagrede modell er åpnet.')}catch(error){message('Kunne ikke åpne modellen: '+error.message)}ev.target.value=''};
 window.addEventListener('resize',resize);rebuild();fit();persist();
+
+export function openFromWorkshop(source){
+ const transferred=KitTransfer.convert(source,KitCore,chemSameStructure);
+ remember();m=transferred.model;preset=transferred.preset;selected=null;bondSelected=null;connecting=false;
+ tab('kit3d');persist();rebuild();fit();
+ message('Kopi fra molekylverkstedet: '+m.atoms.length+' atomer og '+m.bonds.length+' koblinger. '+transferred.note+' 2D-byggverket er beholdt. Angre henter tilbake forrige 3D-byggverk.');
+ q('kitCanvas').scrollIntoView({behavior:'smooth',block:'center'});
+}

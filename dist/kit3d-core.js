@@ -3,6 +3,15 @@ const KitCore=(()=>{
  const add=(a,b)=>a.map((x,i)=>x+b[i]),sub=(a,b)=>a.map((x,i)=>x-b[i]),mul=(a,t)=>a.map(x=>x*t),dot=(a,b)=>a.reduce((s,x,i)=>s+x*b[i],0),cross=(a,b)=>[a[1]*b[2]-a[2]*b[1],a[2]*b[0]-a[0]*b[2],a[0]*b[1]-a[1]*b[0]],norm=a=>Math.hypot(...a),unit=a=>mul(a,1/(norm(a)||1));
  const tetra=[[1,1,1],[1,-1,-1],[-1,1,-1],[-1,-1,1]].map(unit),trig=[0,120,240].map(t=>[Math.cos(t*Math.PI/180),Math.sin(t*Math.PI/180),0]);
  const types={C:{symbol:'C',name:'Karbon · tetraeder',max:4,dirs:tetra,color:'#52616b'},Cp:{symbol:'C',name:'Karbon · plant',max:4,dirs:trig,color:'#52616b'},Cl:{symbol:'C',name:'Karbon · rett',max:4,dirs:[[1,0,0],[-1,0,0]],color:'#52616b'},H:{symbol:'H',name:'Hydrogen',max:1,dirs:[[1,0,0]],color:'#f4f1df'},O:{symbol:'O',name:'Oksygen · vinklet',max:2,dirs:[[-Math.sin(52.25*Math.PI/180),Math.cos(52.25*Math.PI/180),0],[Math.sin(52.25*Math.PI/180),Math.cos(52.25*Math.PI/180),0]],color:'#e56f59'},Od:{symbol:'O',name:'Oksygen · dobbeltbinding',max:2,dirs:[[1,0,0]],color:'#e56f59'},N:{symbol:'N',name:'Nitrogen · pyramide',max:3,dirs:tetra.slice(0,3),color:'#579ad0'},F:{symbol:'F',name:'Fluor',max:1,dirs:[[1,0,0]],color:'#83b86d'},Ch:{symbol:'Cl',name:'Klor',max:1,dirs:[[1,0,0]],color:'#6ca55b'}};
+
+ // Additional pieces preserve every element supported by the 2D Lewis workshop.
+ for(const [key,symbol,name,max,dirs,color] of [
+ ['P','P','Fosfor · skjematisk pyramide',3,tetra.slice(0,3),'#e6a566'],
+ ['S','S','Svovel · skjematisk vinklet',2,types.O.dirs,'#e6cb54'],
+ ['Br','Br','Brom',1,types.F.dirs,'#ad7660'],['I','I','Jod',1,types.F.dirs,'#aa83c9'],
+ ['B','B','Bor · plant',3,trig,'#d5b595'],['Si','Si','Silisium · tetraeder',4,tetra,'#b3b38b'],
+ ['Np','N','Nitrogen · plant',3,trig,'#579ad0'],['Nl','N','Nitrogen · rett',3,[[1,0,0],[-1,0,0]],'#579ad0']
+ ])types[key]={symbol,name,max,dirs,color};
  const clone=x=>JSON.parse(JSON.stringify(x));
  function rotate(v,axis,angle){const n=unit(axis),c=Math.cos(angle),s=Math.sin(angle);return add(add(mul(v,c),mul(cross(n,v),s)),mul(n,dot(n,v)*(1-c)))}
  function align(v,from,to){const a=unit(from),b=unit(to),d=Math.max(-1,Math.min(1,dot(a,b)));if(d>0.999999)return [...v];const axis=d<-.999999?unit(cross(a,Math.abs(a[0])<.8?[1,0,0]:[0,1,0])):unit(cross(a,b));return rotate(v,axis,Math.acos(d))}
