@@ -24,6 +24,7 @@ jobs:
       - run: node verify-hydroxide.cjs
       - run: node verify-kit3d.cjs
       - run: node verify-transfer.cjs
+      - run: node verify-capture.cjs
   deploy:
     needs: test
     runs-on: ubuntu-latest
