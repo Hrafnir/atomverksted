@@ -23,6 +23,7 @@ jobs:
       - run: node verify-learning.cjs
       - run: node verify-hydroxide.cjs
       - run: node verify-kit3d.cjs
+      - run: node verify-kit-capture.cjs
       - run: node verify-transfer.cjs
       - run: node verify-capture.cjs
   deploy:
